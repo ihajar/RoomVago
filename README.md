@@ -1,2 +1,2 @@
 # RoomVago
-run npx expo start or npm start to start the app
+## run npx expo start or npm start to start the app
