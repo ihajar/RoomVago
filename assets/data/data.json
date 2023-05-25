@@ -1,0 +1,3080 @@
+[
+    {
+        "id": "1",
+        "place": "Five Lands",
+        "placeImage": "https://images.pexels.com/photos/417344/pexels-photo-417344.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "Venice, Italy",
+        "Grating": 5,
+        "properties": [
+            {
+                "id": 10,
+                "name": "Palazzo Marcello Hotel Al Sole",
+                "image": "https://images.pexels.com/photos/15543102/pexels-photo-15543102/free-photo-of-boat-on-the-canal-by-the-hotel-al-sole-venice-italy.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "address": "Santa Croce, 134/136, 30135 Venezia VE, Italy",
+                "rating": 4.1,
+                "oldPrice": 253,
+                "nowPrice": 181,
+                "latitude": 45.4367,
+                "longitude": 12.3226,
+                "photos": [
+                    {
+                        "id": "1000",
+                        "picture": "https://al-sole-hotel-venice.hotelmix.co.uk/data/Photos/OriginalPhoto/6821/682125/682125966/Hotel-Al-Sole-Venice-Exterior.JPEG"
+                      },
+                      {
+                        "id": "1001",
+                        "picture": "https://media-cdn.tripadvisor.com/media/photo-s/10/b2/fc/df/triple-canale-room--v17335833.jpg"
+                      },
+                      {
+                        "id": "1002",
+                        "picture": "https://al-sole-hotel-venice.at-hotels.com/data/Imgs/OriginalPhoto/13108/1310847/1310847073/al-sole-hotel-venice-img-2.JPEG"
+                      }
+                ],
+                "rooms": [
+                  {
+                    "id": "202",
+                    "name": "King Room with Balcony",
+                    "size": 419,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "203",
+                    "name": "Deluxe king Room",
+                    "size": 440,
+                    "refundable": "non refundable",
+                    "payment": "Pay in advance",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "205",
+                    "name": "Two bedroom with balcony",
+                    "size": 490,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  }
+                ]
+            },
+            {
+                "id": 11,
+                "name": "Hotel Rialto",
+                "image": "https://files.salsacdn.com/card/1408_Hotel_Rialto/image/2_d.20170803174430.jpg",
+                "address": "Riva del Ferro, 5149, 30124 Venezia VE, Italy",
+                "rating": 4.2,
+                "oldPrice": 257,
+                "nowPrice": 194,
+                "latitude": 45.4376,
+                "longitude": 12.3361,
+                "photos": [
+                    {
+                        "id": "1100",
+                        "picture": "https://www.rialtohotel.com/wp-content/uploads/2016/08/hotel.jpg"
+                      },
+                      {
+                        "id": "1101",
+                        "picture": "https://www.rialtohotel.com/wp-content/uploads/2013/09/foto-1.jpg"
+                      },
+                      {
+                        "id": "1102",
+                        "picture": "https://www.spacehotels.it/cache/5c/17/5c1776eda74a1cf9f7120a4e368427b4.jpg"
+                      }
+                ],
+                "rooms": [
+                  {
+                    "id": "202",
+                    "name": "King Room with Balcony",
+                    "size": 419,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "203",
+                    "name": "Deluxe king Room",
+                    "size": 440,
+                    "refundable": "non refundable",
+                    "payment": "Pay in advance",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "205",
+                    "name": "Two bedroom with balcony",
+                    "size": 490,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  }
+                ]
+            },
+            {
+                "id": 12,
+                "name": "Hotel Mercurio",
+                "image": "https://media-cdn.tripadvisor.com/media/photo-s/12/00/be/6c/hotel-mercurio-venezia.jpg",
+                "address": " C. Frutarol, 1848, 30124 Venezia VE, Italy",
+                "rating": 4.3,
+                "oldPrice": 199,
+                "nowPrice": 176,
+                "latitude": 45.4341,
+                "longitude": 12.3345,
+                "photos": [
+                    {
+                        "id": "1200",
+                        "picture": "https://cf.bstatic.com/xdata/images/hotel/max500/168435284.jpg?k=b197be1edd281d18b42a18ad9062881ced999ce0876ea149fb988c83bea81398&o=&hp=1"
+                      },
+                      {
+                        "id": "1201",
+                        "picture": "https://cf.bstatic.com/xdata/images/hotel/max500/168429945.jpg?k=602510bd9bf943f8c9f3aa6223fb84000927de25dce2c7fd70d6ac5be58a1128&o=&hp=1"
+                      },
+                      {
+                        "id": "1202",
+                        "picture": "https://www.hotelmercurio.com/sites/default/files/immagini-camerette/hotel_mercurio-55-min.jpg"
+                      }
+                ],
+                "rooms": [
+                  {
+                    "id": "202",
+                    "name": "King Room with Balcony",
+                    "size": 419,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "203",
+                    "name": "Deluxe king Room",
+                    "size": 440,
+                    "refundable": "non refundable",
+                    "payment": "Pay in advance",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "205",
+                    "name": "Two bedroom with balcony",
+                    "size": 490,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "place": "Maldives",
+        "placeImage": "https://images.pexels.com/photos/1483053/pexels-photo-1483053.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "South Asia",
+        "G-rating": 5,
+        "properties": [
+            {
+                "id": 20,
+                "name": "Lesser Calamint",
+                "image": "",
+                "address": "Apt 299",
+                "rating": 4.2,
+                "oldPrice": 2.3,
+                "nowPrice": 2.3,
+                "latitude": 41.58806,
+                "longitude": 21.03111,
+                "photos": [
+                    {
+                        "id": "2000",
+                        "picture": ""
+                      },
+                      {
+                        "id": "2001",
+                        "picture": ""
+                      },
+                      {
+                        "id": "2002",
+                        "picture": ""
+                      },
+                      {
+                        "id": "2003",
+                        "picture": ""
+                      },
+                      {
+                        "id": "2004",
+                        "picture": ""
+                      }
+                ],
+                "rooms": [
+                  {
+                    "id": "202",
+                    "name": "King Room with Balcony",
+                    "size": 419,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "203",
+                    "name": "Deluxe king Room",
+                    "size": 440,
+                    "refundable": "non refundable",
+                    "payment": "Pay in advance",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "205",
+                    "name": "Two bedroom with balcony",
+                    "size": 490,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  }
+                ]
+            },
+            {
+                "id": 21,
+                "name": "White Bully",
+                "image": "",
+                "address": "Apt 1412",
+                "rating": 6.8,
+                "oldPrice": 8.3,
+                "nowPrice": 7.2,
+                "latitude": 49.858677,
+                "longitude": 18.9770856,
+                "photos": [
+                    {
+                        "id": "2100",
+                        "picture": ""
+                      },
+                      {
+                        "id": "2101",
+                        "picture": ""
+                      },
+                      {
+                        "id": "2102",
+                        "picture": ""
+                      },
+                      {
+                        "id": "2103",
+                        "picture": ""
+                      },
+                      {
+                        "id": "2104",
+                        "picture": ""
+                      }
+                ],
+                "rooms": [
+                  {
+                    "id": "202",
+                    "name": "King Room with Balcony",
+                    "size": 419,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "203",
+                    "name": "Deluxe king Room",
+                    "size": 440,
+                    "refundable": "non refundable",
+                    "payment": "Pay in advance",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "205",
+                    "name": "Two bedroom with balcony",
+                    "size": 490,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  }
+                ]
+                
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "place": "Red Temples",
+        "placeImage": "https://images.pexels.com/photos/402028/pexels-photo-402028.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "Kyoto, Japan",
+        "G-rating": 5,
+        "properties": [
+            {
+                "id": 30,
+                "name": "Lesser Calamint",
+                "image": "",
+                "address": "Apt 299",
+                "rating": 4.2,
+                "oldPrice": 2.3,
+                "nowPrice": 2.3,
+                "latitude": 41.58806,
+                "longitude": 21.03111,
+                "photos": [
+                    {
+                        "id": "3000",
+                        "picture": ""
+                      },
+                      {
+                        "id": "3001",
+                        "picture": ""
+                      },
+                      {
+                        "id": "3002",
+                        "picture": ""
+                      },
+                      {
+                        "id": "3003",
+                        "picture": ""
+                      },
+                      {
+                        "id": "3004",
+                        "picture": ""
+                      }
+                ],
+                "rooms": [
+                  {
+                    "id": "202",
+                    "name": "King Room with Balcony",
+                    "size": 419,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "203",
+                    "name": "Deluxe king Room",
+                    "size": 440,
+                    "refundable": "non refundable",
+                    "payment": "Pay in advance",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "205",
+                    "name": "Two bedroom with balcony",
+                    "size": 490,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  }
+                ]
+            },
+            {
+                "id": 31,
+                "name": "White Bully",
+                "image": "",
+                "address": "Apt 1412",
+                "rating": 6.8,
+                "oldPrice": 8.3,
+                "nowPrice": 7.2,
+                "latitude": 49.858677,
+                "longitude": 18.9770856,
+                "photos": [
+                    {
+                        "id": "3100",
+                        "picture": ""
+                      },
+                      {
+                        "id": "3101",
+                        "picture": ""
+                      },
+                      {
+                        "id": "3102",
+                        "picture": ""
+                      }
+                ],
+                "rooms": [
+                  {
+                    "id": "202",
+                    "name": "King Room with Balcony",
+                    "size": 419,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "203",
+                    "name": "Deluxe king Room",
+                    "size": 440,
+                    "refundable": "non refundable",
+                    "payment": "Pay in advance",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "205",
+                    "name": "Two bedroom with balcony",
+                    "size": 490,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  }
+                ]
+            },
+            {
+                "id": 32,
+                "name": "Macdougal's Bluebells",
+                "image": "",
+                "address": "6th Floor",
+                "rating": 4.8,
+                "oldPrice": 5.7,
+                "nowPrice": 5.1,
+                "latitude": -10.0745443,
+                "longitude": -77.1449212,
+                "photos": [
+                    {
+                        "id": "3200",
+                        "picture": ""
+                      },
+                      {
+                        "id": "3201",
+                        "picture": ""
+                      },
+                      {
+                        "id": "3202",
+                        "picture": ""
+                      },
+                      {
+                        "id": "3203",
+                        "picture": ""
+                      },
+                      {
+                        "id": "3204",
+                        "picture": ""
+                      }
+                ],
+                "rooms": [
+                  {
+                    "id": "202",
+                    "name": "King Room with Balcony",
+                    "size": 419,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "203",
+                    "name": "Deluxe king Room",
+                    "size": 440,
+                    "refundable": "non refundable",
+                    "payment": "Pay in advance",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "205",
+                    "name": "Two bedroom with balcony",
+                    "size": 490,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  }
+                ]
+            },
+            {
+                "id": 33,
+                "name": "Macdougal's Bluebells",
+                "image": "",
+                "address": "6th Floor",
+                "rating": 4.8,
+                "oldPrice": 5.7,
+                "nowPrice": 5.1,
+                "latitude": -10.0745443,
+                "longitude": -77.1449212,
+                "photos": [
+                    {
+                        "id": "3300",
+                        "picture": ""
+                      },
+                      {
+                        "id": "3301",
+                        "picture": ""
+                      },
+                      {
+                        "id": "3302",
+                        "picture": ""
+                      },
+                      {
+                        "id": "3303",
+                        "picture": ""
+                      },
+                      {
+                        "id": "3304",
+                        "picture": ""
+                      }
+                ],
+                "rooms": [
+                  {
+                    "id": "202",
+                    "name": "King Room with Balcony",
+                    "size": 419,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "203",
+                    "name": "Deluxe king Room",
+                    "size": 440,
+                    "refundable": "non refundable",
+                    "payment": "Pay in advance",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "205",
+                    "name": "Two bedroom with balcony",
+                    "size": 490,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "place": "Osaka Castle",
+        "placeImage": "https://images.pexels.com/photos/1440476/pexels-photo-1440476.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "Osaka, Japan",
+        "Grating": 5,
+        "properties": [
+            {
+                "id": 40,
+                "name": "Lesser Calamint",
+                "image": "",
+                "address": "Apt 299",
+                "rating": 4.2,
+                "oldPrice": 2.3,
+                "nowPrice": 2.3,
+                "latitude": 41.58806,
+                "longitude": 21.03111,
+                "photos": [
+                    {
+                        "id": "4000",
+                        "picture": ""
+                      },
+                      {
+                        "id": "4001",
+                        "picture": ""
+                      },
+                      {
+                        "id": "4002",
+                        "picture": ""
+                      },
+                      {
+                        "id": "4003",
+                        "picture": ""
+                      }
+                ],
+                "rooms": [
+                  {
+                    "id": "202",
+                    "name": "King Room with Balcony",
+                    "size": 419,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "203",
+                    "name": "Deluxe king Room",
+                    "size": 440,
+                    "refundable": "non refundable",
+                    "payment": "Pay in advance",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "205",
+                    "name": "Two bedroom with balcony",
+                    "size": 490,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  }
+                ]
+            },
+            {
+                "id": 41,
+                "name": "White Bully",
+                "image": "",
+                "address": "Apt 1412",
+                "rating": 6.8,
+                "oldPrice": 8.3,
+                "nowPrice": 7.2,
+                "latitude": 49.858677,
+                "longitude": 18.9770856,
+                "photos": [
+                    {
+                        "id": "4100",
+                        "picture": ""
+                      },
+                      {
+                        "id": "4101",
+                        "picture": ""
+                      },
+                      {
+                        "id": "4102",
+                        "picture": ""
+                      },
+                      {
+                        "id": "4103",
+                        "picture": ""
+                      }
+                ],
+                "rooms": [
+                  {
+                    "id": "202",
+                    "name": "King Room with Balcony",
+                    "size": 419,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "203",
+                    "name": "Deluxe king Room",
+                    "size": 440,
+                    "refundable": "non refundable",
+                    "payment": "Pay in advance",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "205",
+                    "name": "Two bedroom with balcony",
+                    "size": 490,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "place": " Barcelona",
+        "placeImage": "https://images.pexels.com/photos/1388030/pexels-photo-1388030.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": " Barcelona, CT, Spain",
+        "Grating": 4.8,
+        "properties": [
+            {
+                "id": 50,
+                "name": "Lesser Calamint",
+                "image": "",
+                "address": "Apt 299",
+                "rating": 4.2,
+                "oldPrice": 2.3,
+                "nowPrice": 2.3,
+                "latitude": 41.58806,
+                "longitude": 21.03111,
+                "photos": [
+                    {
+                        "id": "5000",
+                        "picture": ""
+                      },
+                      {
+                        "id": "5001",
+                        "picture": ""
+                      },
+                      {
+                        "id": "5002",
+                        "picture": ""
+                      },
+                      {
+                        "id": "5003",
+                        "picture": ""
+                      }
+                ],
+                "rooms": [
+                  {
+                    "id": "202",
+                    "name": "King Room with Balcony",
+                    "size": 419,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "203",
+                    "name": "Deluxe king Room",
+                    "size": 440,
+                    "refundable": "non refundable",
+                    "payment": "Pay in advance",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "205",
+                    "name": "Two bedroom with balcony",
+                    "size": 490,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  }
+                ]
+            },
+            {
+                "id": 51,
+                "name": "White Bully",
+                "image": "",
+                "address": "Apt 1412",
+                "rating": 6.8,
+                "oldPrice": 8.3,
+                "nowPrice": 7.2,
+                "latitude": 49.858677,
+                "longitude": 18.9770856,
+                "photos": [
+                    {
+                        "id": "5100",
+                        "picture": ""
+                      },
+                      {
+                        "id": "5101",
+                        "picture": ""
+                      },
+                      {
+                        "id": "5102",
+                        "picture": ""
+                      },
+                      {
+                        "id": "5103",
+                        "picture": ""
+                      }
+                ],
+                "rooms": [
+                  {
+                    "id": "202",
+                    "name": "King Room with Balcony",
+                    "size": 419,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "203",
+                    "name": "Deluxe king Room",
+                    "size": 440,
+                    "refundable": "non refundable",
+                    "payment": "Pay in advance",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "205",
+                    "name": "Two bedroom with balcony",
+                    "size": 490,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "place": "El Retiro Park",
+        "placeImage": "https://images.pexels.com/photos/5696371/pexels-photo-5696371.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "Madrid, Spain",
+        "Grating": 5.1,
+        "properties": [
+            {
+                "id": 60,
+                "name": "Lesser Calamint",
+                "image": "",
+                "address": "Apt 299",
+                "rating": 4.2,
+                "oldPrice": 2.3,
+                "nowPrice": 2.3,
+                "latitude": 41.58806,
+                "longitude": 21.03111,
+                "photos": [
+                    {
+                        "id": "6000",
+                        "picture": ""
+                      },
+                      {
+                        "id": "6001",
+                        "picture": ""
+                      },
+                      {
+                        "id": "6002",
+                        "picture": ""
+                      }
+                ],
+                "rooms": [
+                  {
+                    "id": "202",
+                    "name": "King Room with Balcony",
+                    "size": 419,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "203",
+                    "name": "Deluxe king Room",
+                    "size": 440,
+                    "refundable": "non refundable",
+                    "payment": "Pay in advance",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "205",
+                    "name": "Two bedroom with balcony",
+                    "size": 490,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  }
+                ]
+            },
+            {
+                "id": 61,
+                "name": "White Bully",
+                "image": "",
+                "address": "Apt 1412",
+                "rating": 6.8,
+                "oldPrice": 8.3,
+                "nowPrice": 7.2,
+                "latitude": 49.858677,
+                "longitude": 18.9770856,
+                "photos": [
+                    {
+                        "id": "6100",
+                        "picture": ""
+                      },
+                      {
+                        "id": "6101",
+                        "picture": ""
+                      },
+                      {
+                        "id": "6102",
+                        "picture": ""
+                      }
+                ],
+                "rooms": [
+                  {
+                    "id": "202",
+                    "name": "King Room with Balcony",
+                    "size": 419,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "203",
+                    "name": "Deluxe king Room",
+                    "size": 440,
+                    "refundable": "non refundable",
+                    "payment": "Pay in advance",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "205",
+                    "name": "Two bedroom with balcony",
+                    "size": 490,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  }
+                ]
+            },
+            {
+                "id": 62,
+                "name": "Macdougal's Bluebells",
+                "image": "",
+                "address": "6th Floor",
+                "rating": 4.8,
+                "oldPrice": 5.7,
+                "nowPrice": 5.1,
+                "latitude": -10.0745443,
+                "longitude": -77.1449212,
+                "photos": [
+                    {
+                        "id": "6200",
+                        "picture": ""
+                      },
+                      {
+                        "id": "6201",
+                        "picture": ""
+                      },
+                      {
+                        "id": "6202",
+                        "picture": ""
+                      }
+                ],
+                "rooms": [
+                  {
+                    "id": "202",
+                    "name": "King Room with Balcony",
+                    "size": 419,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "203",
+                    "name": "Deluxe king Room",
+                    "size": 440,
+                    "refundable": "non refundable",
+                    "payment": "Pay in advance",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "205",
+                    "name": "Two bedroom with balcony",
+                    "size": 490,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "7",
+        "place": "San Sebastián",
+        "placeImage": "https://images.pexels.com/photos/16444057/pexels-photo-16444057/free-photo-of-good-shepperd-cathedral-of-san-sebastian-spain.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "Basque, Spain",
+        "Grating": 4.5,
+        "properties": [
+            {
+                "id": 70,
+                "name": "Lesser Calamint",
+                "image": "",
+                "address": "Apt 299",
+                "rating": 4.2,
+                "oldPrice": 2.3,
+                "nowPrice": 2.3,
+                "latitude": 41.58806,
+                "longitude": 21.03111,
+                "photos": [
+                    {
+                        "id": "7000",
+                        "picture": ""
+                      },
+                      {
+                        "id": "7001",
+                        "picture": ""
+                      },
+                      {
+                        "id": "7002",
+                        "picture": ""
+                      },
+                      {
+                        "id": "7003",
+                        "picture": ""
+                      },
+                      {
+                        "id": "7004",
+                        "picture": ""
+                      }
+                ],
+                "rooms": [
+                  {
+                    "id": "202",
+                    "name": "King Room with Balcony",
+                    "size": 419,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "203",
+                    "name": "Deluxe king Room",
+                    "size": 440,
+                    "refundable": "non refundable",
+                    "payment": "Pay in advance",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "205",
+                    "name": "Two bedroom with balcony",
+                    "size": 490,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "8",
+        "place": "Lombardia",
+        "placeImage": "https://images.pexels.com/photos/927520/pexels-photo-927520.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "Milan, Italy",
+        "Grating": 4.5,
+        "properties": [
+            {
+                "id": 80,
+                "name": "Lesser Calamint",
+                "image": "",
+                "address": "Apt 299",
+                "rating": 4.2,
+                "oldPrice": 2.3,
+                "nowPrice": 2.3,
+                "latitude": 41.58806,
+                "longitude": 21.03111,
+                "photos": [
+                    {
+                        "id": "8000",
+                        "picture": ""
+                      },
+                      {
+                        "id": "8001",
+                        "picture": ""
+                      },
+                      {
+                        "id": "8002",
+                        "picture": ""
+                      }
+                ],
+                "rooms": [
+                  {
+                    "id": "202",
+                    "name": "King Room with Balcony",
+                    "size": 419,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "203",
+                    "name": "Deluxe king Room",
+                    "size": 440,
+                    "refundable": "non refundable",
+                    "payment": "Pay in advance",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "205",
+                    "name": "Two bedroom with balcony",
+                    "size": 490,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  }
+                ]
+            },
+            {
+                "id": 81,
+                "name": "White Bully",
+                "image": "",
+                "address": "Apt 1412",
+                "rating": 6.8,
+                "oldPrice": 8.3,
+                "nowPrice": 7.2,
+                "latitude": 49.858677,
+                "longitude": 18.9770856,
+                "photos": [
+                    {
+                        "id": "8100",
+                        "picture": ""
+                      },
+                      {
+                        "id": "8101",
+                        "picture": ""
+                      },
+                      {
+                        "id": "8102",
+                        "picture": ""
+                      }
+                ],
+                "rooms": [
+                  {
+                    "id": "202",
+                    "name": "King Room with Balcony",
+                    "size": 419,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "203",
+                    "name": "Deluxe king Room",
+                    "size": 440,
+                    "refundable": "non refundable",
+                    "payment": "Pay in advance",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "205",
+                    "name": "Two bedroom with balcony",
+                    "size": 490,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  }
+                ]
+            },
+            {
+                "id": 82,
+                "name": "Macdougal's Bluebells",
+                "image": "",
+                "address": "6th Floor",
+                "rating": 4.8,
+                "oldPrice": 5.7,
+                "nowPrice": 5.1,
+                "latitude": -10.0745443,
+                "longitude": -77.1449212,
+                "photos": [
+                    {
+                        "id": "8200",
+                        "picture": ""
+                      },
+                      {
+                        "id": "8201",
+                        "picture": ""
+                      },
+                      {
+                        "id": "8202",
+                        "picture": ""
+                      }
+                ],
+                "rooms": [
+                  {
+                    "id": "202",
+                    "name": "King Room with Balcony",
+                    "size": 419,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "203",
+                    "name": "Deluxe king Room",
+                    "size": 440,
+                    "refundable": "non refundable",
+                    "payment": "Pay in advance",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "205",
+                    "name": "Two bedroom with balcony",
+                    "size": 490,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  }
+                ]
+            },
+            {
+                "id": 83,
+                "name": "Macdougal's Bluebells",
+                "image": "",
+                "address": "6th Floor",
+                "rating": 4.8,
+                "oldPrice": 5.7,
+                "nowPrice": 5.1,
+                "latitude": -10.0745443,
+                "longitude": -77.1449212,
+                "photos": [
+                    {
+                        "id": "8300",
+                        "picture": ""
+                      },
+                      {
+                        "id": "8301",
+                        "picture": ""
+                      },
+                      {
+                        "id": "8302",
+                        "picture": ""
+                      }
+                ],
+                "rooms": [
+                  {
+                    "id": "202",
+                    "name": "King Room with Balcony",
+                    "size": 419,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "203",
+                    "name": "Deluxe king Room",
+                    "size": 440,
+                    "refundable": "non refundable",
+                    "payment": "Pay in advance",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "205",
+                    "name": "Two bedroom with balcony",
+                    "size": 490,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  }
+                ]
+            },
+            {
+                "id": 84,
+                "name": "Macdougal's Bluebells",
+                "image": "",
+                "address": "6th Floor",
+                "rating": 4.8,
+                "oldPrice": 5.7,
+                "nowPrice": 5.1,
+                "latitude": -10.0745443,
+                "longitude": -77.1449212,
+                "photos": [
+                    {
+                        "id": "8400",
+                        "picture": ""
+                      },
+                      {
+                        "id": "8401",
+                        "picture": ""
+                      },
+                      {
+                        "id": "8402",
+                        "picture": ""
+                      }
+                ],
+                "rooms": [
+                  {
+                    "id": "202",
+                    "name": "King Room with Balcony",
+                    "size": 419,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "203",
+                    "name": "Deluxe king Room",
+                    "size": 440,
+                    "refundable": "non refundable",
+                    "payment": "Pay in advance",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "205",
+                    "name": "Two bedroom with balcony",
+                    "size": 490,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "9",
+        "place": "Colosseum",
+        "placeImage": "https://images.pexels.com/photos/2064827/pexels-photo-2064827.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "Rome, Italy",
+        "Grating": 5,
+        "properties": [
+            {
+                "id": 90,
+                "name": "Lesser Calamint",
+                "image": "",
+                "address": "Apt 299",
+                "rating": 4.2,
+                "oldPrice": 2.3,
+                "nowPrice": 2.3,
+                "latitude": 41.58806,
+                "longitude": 21.03111,
+                "photos": [
+                    {
+                        "id": "9000",
+                        "picture": ""
+                      },
+                      {
+                        "id": "9001",
+                        "picture": ""
+                      },
+                      {
+                        "id": "9002",
+                        "picture": ""
+                      },
+                      {
+                        "id": "9003",
+                        "picture": ""
+                      },
+                      {
+                        "id": "7004",
+                        "picture": ""
+                      }
+                ],
+                "rooms": [
+                  {
+                    "id": "202",
+                    "name": "King Room with Balcony",
+                    "size": 419,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "203",
+                    "name": "Deluxe king Room",
+                    "size": 440,
+                    "refundable": "non refundable",
+                    "payment": "Pay in advance",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "205",
+                    "name": "Two bedroom with balcony",
+                    "size": 490,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  }
+                ]
+            },
+            {
+                "id": 91,
+                "name": "White Bully",
+                "image": "",
+                "address": "Apt 1412",
+                "rating": 6.8,
+                "oldPrice": 8.3,
+                "nowPrice": 7.2,
+                "latitude": 49.858677,
+                "longitude": 18.9770856,
+                "photos": [
+                    {
+                        "id": "9100",
+                        "picture": ""
+                      },
+                      {
+                        "id": "9101",
+                        "picture": ""
+                      },
+                      {
+                        "id": "9102",
+                        "picture": ""
+                      },
+                      {
+                        "id": "9103",
+                        "picture": ""
+                      },
+                      {
+                        "id": "9104",
+                        "picture": ""
+                      }
+                ],
+                "rooms": [
+                  {
+                    "id": "202",
+                    "name": "King Room with Balcony",
+                    "size": 419,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "203",
+                    "name": "Deluxe king Room",
+                    "size": 440,
+                    "refundable": "non refundable",
+                    "payment": "Pay in advance",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "205",
+                    "name": "Two bedroom with balcony",
+                    "size": 490,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "10",
+        "place": "Statue of Liberty",
+        "placeImage": "https://images.pexels.com/photos/3230125/pexels-photo-3230125.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "New York, USA",
+        "Grating": 4.2,
+        "properties": [
+            {
+                "id": 100,
+                "name": "Lesser Calamint",
+                "image": "",
+                "address": "Apt 299",
+                "rating": 4.2,
+                "oldPrice": 2.3,
+                "nowPrice": 2.3,
+                "latitude": 41.58806,
+                "longitude": 21.03111,
+                "photos": [
+                    {
+                        "id": "10000",
+                        "picture": ""
+                      },
+                      {
+                        "id": "10001",
+                        "picture": ""
+                      },
+                      {
+                        "id": "10002",
+                        "picture": ""
+                      },
+                      {
+                        "id": "10003",
+                        "picture": ""
+                      }
+                ],
+                "rooms": [
+                  {
+                    "id": "202",
+                    "name": "King Room with Balcony",
+                    "size": 419,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "203",
+                    "name": "Deluxe king Room",
+                    "size": 440,
+                    "refundable": "non refundable",
+                    "payment": "Pay in advance",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "205",
+                    "name": "Two bedroom with balcony",
+                    "size": 490,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  }
+                ]
+            },
+            {
+                "id": 101,
+                "name": "White Bully",
+                "image": "",
+                "address": "Apt 1412",
+                "rating": 6.8,
+                "oldPrice": 8.3,
+                "nowPrice": 7.2,
+                "latitude": 49.858677,
+                "longitude": 18.9770856,
+                "photos": [
+                    {
+                        "id": "10100",
+                        "picture": ""
+                      },
+                      {
+                        "id": "10101",
+                        "picture": ""
+                      },
+                      {
+                        "id": "10102",
+                        "picture": ""
+                      },
+                      {
+                        "id": "10103",
+                        "picture": ""
+                      }
+                ],
+                "rooms": [
+                  {
+                    "id": "202",
+                    "name": "King Room with Balcony",
+                    "size": 419,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "203",
+                    "name": "Deluxe king Room",
+                    "size": 440,
+                    "refundable": "non refundable",
+                    "payment": "Pay in advance",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "205",
+                    "name": "Two bedroom with balcony",
+                    "size": 490,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "11",
+        "place": "Florida",
+        "placeImage": "https://images.pexels.com/photos/421655/pexels-photo-421655.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "Miami, USA",
+        "Grating": 4.9,
+        "properties": [
+            {
+                "id": 110,
+                "name": "Lesser Calamint",
+                "image": "",
+                "address": "Apt 299",
+                "rating": 4.2,
+                "oldPrice": 2.3,
+                "nowPrice": 2.3,
+                "latitude": 41.58806,
+                "longitude": 21.03111,
+                "photos": [
+                    {
+                        "id": "11000",
+                        "picture": ""
+                      },
+                      {
+                        "id": "11001",
+                        "picture": ""
+                      },
+                      {
+                        "id": "11002",
+                        "picture": ""
+                      }
+                ],
+                "rooms": [
+                  {
+                    "id": "202",
+                    "name": "King Room with Balcony",
+                    "size": 419,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "203",
+                    "name": "Deluxe king Room",
+                    "size": 440,
+                    "refundable": "non refundable",
+                    "payment": "Pay in advance",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "205",
+                    "name": "Two bedroom with balcony",
+                    "size": 490,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  }
+                ]
+            },
+            {
+                "id": 111,
+                "name": "White Bully",
+                "image": "",
+                "address": "Apt 1412",
+                "rating": 6.8,
+                "oldPrice": 8.3,
+                "nowPrice": 7.2,
+                "latitude": 49.858677,
+                "longitude": 18.9770856,
+                "photos": [
+                    {
+                        "id": "11100",
+                        "picture": ""
+                      },
+                      {
+                        "id": "11101",
+                        "picture": ""
+                      },
+                      {
+                        "id": "11102",
+                        "picture": ""
+                      },
+                      {
+                        "id": "11103",
+                        "picture": ""
+                      }
+                ],
+                "rooms": [
+                  {
+                    "id": "202",
+                    "name": "King Room with Balcony",
+                    "size": 419,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "203",
+                    "name": "Deluxe king Room",
+                    "size": 440,
+                    "refundable": "non refundable",
+                    "payment": "Pay in advance",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "205",
+                    "name": "Two bedroom with balcony",
+                    "size": 490,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  }
+                ]
+            },
+            {
+                "id": 112,
+                "name": "Macdougal's Bluebells",
+                "image": "",
+                "address": "6th Floor",
+                "rating": 4.8,
+                "oldPrice": 5.7,
+                "nowPrice": 5.1,
+                "latitude": -10.0745443,
+                "longitude": -77.1449212,
+                "photos": [
+                    {
+                        "id": "11200",
+                        "picture": ""
+                      },
+                      {
+                        "id": "11201",
+                        "picture": ""
+                      },
+                      {
+                        "id": "11202",
+                        "picture": ""
+                      },
+                      {
+                        "id": "11203",
+                        "picture": ""
+                      }
+                ],
+                "rooms": [
+                  {
+                    "id": "202",
+                    "name": "King Room with Balcony",
+                    "size": 419,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "203",
+                    "name": "Deluxe king Room",
+                    "size": 440,
+                    "refundable": "non refundable",
+                    "payment": "Pay in advance",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "205",
+                    "name": "Two bedroom with balcony",
+                    "size": 490,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "12",
+        "place": "Brandenburg Gate",
+        "placeImage": "https://images.pexels.com/photos/4326397/pexels-photo-4326397.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "Berlin Germany",
+        "Grating": 4.6,
+        "properties": [
+            {
+                "id": 120,
+                "name": "Lesser Calamint",
+                "image": "",
+                "address": "Apt 299",
+                "rating": 4.2,
+                "oldPrice": 2.3,
+                "nowPrice": 2.3,
+                "latitude": 41.58806,
+                "longitude": 21.03111,
+                "photos": [
+                    {
+                        "id": "12000",
+                        "picture": ""
+                      },
+                      {
+                        "id": "12001",
+                        "picture": ""
+                      },
+                      {
+                        "id": "12002",
+                        "picture": ""
+                      },
+                      {
+                        "id": "12003",
+                        "picture": ""
+                      }
+                ],
+                "rooms": [
+                  {
+                    "id": "202",
+                    "name": "King Room with Balcony",
+                    "size": 419,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "203",
+                    "name": "Deluxe king Room",
+                    "size": 440,
+                    "refundable": "non refundable",
+                    "payment": "Pay in advance",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "205",
+                    "name": "Two bedroom with balcony",
+                    "size": 490,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  }
+                ]
+            },
+            {
+                "id": 121,
+                "name": "White Bully",
+                "image": "",
+                "address": "Apt 1412",
+                "rating": 6.8,
+                "oldPrice": 8.3,
+                "nowPrice": 7.2,
+                "latitude": 49.858677,
+                "longitude": 18.9770856,
+                "photos": [
+                    {
+                        "id": "121000",
+                        "picture": ""
+                      },
+                      {
+                        "id": "12101",
+                        "picture": ""
+                      },
+                      {
+                        "id": "12102",
+                        "picture": ""
+                      },
+                      {
+                        "id": "12103",
+                        "picture": ""
+                      }
+                ],
+                "rooms": [
+                  {
+                    "id": "202",
+                    "name": "King Room with Balcony",
+                    "size": 419,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "203",
+                    "name": "Deluxe king Room",
+                    "size": 440,
+                    "refundable": "non refundable",
+                    "payment": "Pay in advance",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "205",
+                    "name": "Two bedroom with balcony",
+                    "size": 490,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "13",
+        "place": "Reichstag Building",
+        "placeImage": "https://images.pexels.com/photos/1128416/pexels-photo-1128416.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "Berlin, Germany",
+        "Grating": 4.7,
+        "properties": [
+            {
+                "id": 130,
+                "name": "Lesser Calamint",
+                "image": "",
+                "address": "Apt 299",
+                "rating": 4.2,
+                "oldPrice": 2.3,
+                "nowPrice": 2.3,
+                "latitude": 41.58806,
+                "longitude": 21.03111,
+                "photos": [
+                    {
+                        "id": "13000",
+                        "picture": ""
+                      },
+                      {
+                        "id": "13001",
+                        "picture": ""
+                      },
+                      {
+                        "id": "13002",
+                        "picture": ""
+                      },
+                      {
+                        "id": "13003",
+                        "picture": ""
+                      }
+                ],
+                "rooms": [
+                  {
+                    "id": "202",
+                    "name": "King Room with Balcony",
+                    "size": 419,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "203",
+                    "name": "Deluxe king Room",
+                    "size": 440,
+                    "refundable": "non refundable",
+                    "payment": "Pay in advance",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "205",
+                    "name": "Two bedroom with balcony",
+                    "size": 490,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  }
+                ]
+            },
+            {
+                "id": 131,
+                "name": "White Bully",
+                "image": "",
+                "address": "Apt 1412",
+                "rating": 6.8,
+                "oldPrice": 8.3,
+                "nowPrice": 7.2,
+                "latitude": 49.858677,
+                "longitude": 18.9770856,
+                "photos": [
+                    {
+                        "id": "13100",
+                        "picture": ""
+                      },
+                      {
+                        "id": "13101",
+                        "picture": ""
+                      },
+                      {
+                        "id": "13102",
+                        "picture": ""
+                      },
+                      {
+                        "id": "13103",
+                        "picture": ""
+                      }
+                ],
+                "rooms": [
+                  {
+                    "id": "202",
+                    "name": "King Room with Balcony",
+                    "size": 419,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "203",
+                    "name": "Deluxe king Room",
+                    "size": 440,
+                    "refundable": "non refundable",
+                    "payment": "Pay in advance",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "205",
+                    "name": "Two bedroom with balcony",
+                    "size": 490,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "14",
+        "place": "Edinburgh Castle",
+        "placeImage": "https://images.pexels.com/photos/6068174/pexels-photo-6068174.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "Scotland, UK",
+        "Grating": 4.3,
+        "properties": [
+            {
+                "id": 140,
+                "name": "Lesser Calamint",
+                "image": "",
+                "address": "Apt 299",
+                "rating": 4.2,
+                "oldPrice": 2.3,
+                "nowPrice": 2.3,
+                "latitude": 41.58806,
+                "longitude": 21.03111,
+                "photos": [
+                    {
+                        "id": "14000",
+                        "picture": ""
+                      },
+                      {
+                        "id": "14001",
+                        "picture": ""
+                      },
+                      {
+                        "id": "14002",
+                        "picture": ""
+                      }
+                ],
+                "rooms": [
+                  {
+                    "id": "202",
+                    "name": "King Room with Balcony",
+                    "size": 419,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "203",
+                    "name": "Deluxe king Room",
+                    "size": 440,
+                    "refundable": "non refundable",
+                    "payment": "Pay in advance",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "205",
+                    "name": "Two bedroom with balcony",
+                    "size": 490,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  }
+                ]
+            },
+            {
+                "id": 141,
+                "name": "White Bully",
+                "image": "",
+                "address": "Apt 1412",
+                "rating": 6.8,
+                "oldPrice": 8.3,
+                "nowPrice": 7.2,
+                "latitude": 49.858677,
+                "longitude": 18.9770856,
+                "photos": [
+                    {
+                        "id": "14100",
+                        "picture": ""
+                      },
+                      {
+                        "id": "14101",
+                        "picture": ""
+                      },
+                      {
+                        "id": "14102",
+                        "picture": ""
+                      }
+                ],
+                "rooms": [
+                  {
+                    "id": "202",
+                    "name": "King Room with Balcony",
+                    "size": 419,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "203",
+                    "name": "Deluxe king Room",
+                    "size": 440,
+                    "refundable": "non refundable",
+                    "payment": "Pay in advance",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "205",
+                    "name": "Two bedroom with balcony",
+                    "size": 490,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  }
+                ]
+            },
+            {
+                "id": 142,
+                "name": "Macdougal's Bluebells",
+                "image": "",
+                "address": "6th Floor",
+                "rating": 4.8,
+                "oldPrice": 5.7,
+                "nowPrice": 5.1,
+                "latitude": -10.0745443,
+                "longitude": -77.1449212,
+                "photos": [
+                    {
+                        "id": "14200",
+                        "picture": ""
+                      },
+                      {
+                        "id": "14201",
+                        "picture": ""
+                      },
+                      {
+                        "id": "14202",
+                        "picture": ""
+                      }
+                ],
+                "rooms": [
+                  {
+                    "id": "202",
+                    "name": "King Room with Balcony",
+                    "size": 419,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "203",
+                    "name": "Deluxe king Room",
+                    "size": 440,
+                    "refundable": "non refundable",
+                    "payment": "Pay in advance",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "205",
+                    "name": "Two bedroom with balcony",
+                    "size": 490,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "15",
+        "place": "Buckingham Palace",
+        "placeImage": "https://images.pexels.com/photos/1059078/pexels-photo-1059078.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "London, UK",
+        "Grating": 4.5,
+        "properties": [
+            {
+                "id": 150,
+                "name": "Lesser Calamint",
+                "image": "",
+                "address": "Apt 299",
+                "rating": 4.2,
+                "oldPrice": 2.3,
+                "nowPrice": 2.3,
+                "latitude": 41.58806,
+                "longitude": 21.03111,
+                "photos": [
+                    {
+                        "id": "15000",
+                        "picture": ""
+                      },
+                      {
+                        "id": "15001",
+                        "picture": ""
+                      },
+                      {
+                        "id": "15002",
+                        "picture": ""
+                      }
+                ],
+                "rooms": [
+                  {
+                    "id": "202",
+                    "name": "King Room with Balcony",
+                    "size": 419,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "203",
+                    "name": "Deluxe king Room",
+                    "size": 440,
+                    "refundable": "non refundable",
+                    "payment": "Pay in advance",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "205",
+                    "name": "Two bedroom with balcony",
+                    "size": 490,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  }
+                ]
+            },
+            {
+                "id": 151,
+                "name": "White Bully",
+                "image": "",
+                "address": "Apt 1412",
+                "rating": 6.8,
+                "oldPrice": 8.3,
+                "nowPrice": 7.2,
+                "latitude": 49.858677,
+                "longitude": 18.9770856,
+                "photos": [
+                    {
+                        "id": "15100",
+                        "picture": ""
+                      },
+                      {
+                        "id": "15101",
+                        "picture": ""
+                      },
+                      {
+                        "id": "15102",
+                        "picture": ""
+                      }
+                ],
+                "rooms": [
+                  {
+                    "id": "202",
+                    "name": "King Room with Balcony",
+                    "size": 419,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "203",
+                    "name": "Deluxe king Room",
+                    "size": 440,
+                    "refundable": "non refundable",
+                    "payment": "Pay in advance",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "205",
+                    "name": "Two bedroom with balcony",
+                    "size": 490,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "16",
+        "place": "Manchester Town Hall",
+        "placeImage": "https://images.pexels.com/photos/15023016/pexels-photo-15023016/free-photo-of-aerial-view-of-manchester-town-hall.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "Manchester, UK",
+        "Grating": 4.5,
+        "properties": [
+            {
+                "id": 160,
+                "name": "Lesser Calamint",
+                "image": "",
+                "address": "Apt 299",
+                "rating": 4.2,
+                "oldPrice": 2.3,
+                "nowPrice": 2.3,
+                "latitude": 41.58806,
+                "longitude": 21.03111,
+                "photos": [
+                    {
+                        "id": "16000",
+                        "picture": ""
+                      },
+                      {
+                        "id": "16001",
+                        "picture": ""
+                      },
+                      {
+                        "id": "16002",
+                        "picture": ""
+                      }
+                ],
+                "rooms": [
+                  {
+                    "id": "202",
+                    "name": "King Room with Balcony",
+                    "size": 419,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "203",
+                    "name": "Deluxe king Room",
+                    "size": 440,
+                    "refundable": "non refundable",
+                    "payment": "Pay in advance",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "205",
+                    "name": "Two bedroom with balcony",
+                    "size": 490,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  }
+                ]
+            },
+            {
+                "id": 161,
+                "name": "White Bully",
+                "image": "",
+                "address": "Apt 1412",
+                "rating": 6.8,
+                "oldPrice": 8.3,
+                "nowPrice": 7.2,
+                "latitude": 49.858677,
+                "longitude": 18.9770856,
+                "photos": [
+                    {
+                        "id": "16100",
+                        "picture": ""
+                      },
+                      {
+                        "id": "16101",
+                        "picture": ""
+                      },
+                      {
+                        "id": "16102",
+                        "picture": ""
+                      }
+                ],
+                "rooms": [
+                  {
+                    "id": "202",
+                    "name": "King Room with Balcony",
+                    "size": 419,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "203",
+                    "name": "Deluxe king Room",
+                    "size": 440,
+                    "refundable": "non refundable",
+                    "payment": "Pay in advance",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "205",
+                    "name": "Two bedroom with balcony",
+                    "size": 490,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  }
+                ]
+            },
+            {
+                "id": 162,
+                "name": "Macdougal's Bluebells",
+                "image": "",
+                "address": "6th Floor",
+                "rating": 4.8,
+                "oldPrice": 5.7,
+                "nowPrice": 5.1,
+                "latitude": -10.0745443,
+                "longitude": -77.1449212,
+                "photos": [
+                    {
+                        "id": "16200",
+                        "picture": ""
+                      },
+                      {
+                        "id": "16201",
+                        "picture": ""
+                      },
+                      {
+                        "id": "16202",
+                        "picture": ""
+                      }
+                ],
+                "rooms": [
+                  {
+                    "id": "202",
+                    "name": "King Room with Balcony",
+                    "size": 419,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "203",
+                    "name": "Deluxe king Room",
+                    "size": 440,
+                    "refundable": "non refundable",
+                    "payment": "Pay in advance",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "205",
+                    "name": "Two bedroom with balcony",
+                    "size": 490,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "17",
+        "place": "Sydney Opera House",
+        "placeImage": "https://images.pexels.com/photos/2193300/pexels-photo-2193300.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "Sydney, Australia",
+        "Grating": 4.7,
+        "properties": [
+            {
+                "id": 170,
+                "name": "Lesser Calamint",
+                "image": "",
+                "address": "Apt 299",
+                "rating": 4.2,
+                "oldPrice": 2.3,
+                "nowPrice": 2.3,
+                "latitude": 41.58806,
+                "longitude": 21.03111,
+                "photos": [
+                    {
+                        "id": "17000",
+                        "picture": ""
+                      },
+                      {
+                        "id": "17001",
+                        "picture": ""
+                      },
+                      {
+                        "id": "17002",
+                        "picture": ""
+                      }
+                ],
+                "rooms": [
+                  {
+                    "id": "202",
+                    "name": "King Room with Balcony",
+                    "size": 419,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "203",
+                    "name": "Deluxe king Room",
+                    "size": 440,
+                    "refundable": "non refundable",
+                    "payment": "Pay in advance",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "205",
+                    "name": "Two bedroom with balcony",
+                    "size": 490,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  }
+                ]
+            },
+            {
+                "id": 171,
+                "name": "White Bully",
+                "image": "",
+                "address": "Apt 1412",
+                "rating": 6.8,
+                "oldPrice": 8.3,
+                "nowPrice": 7.2,
+                "latitude": 49.858677,
+                "longitude": 18.9770856,
+                "photos": [
+                    {
+                        "id": "17100",
+                        "picture": ""
+                      },
+                      {
+                        "id": "17101",
+                        "picture": ""
+                      },
+                      {
+                        "id": "17102",
+                        "picture": ""
+                      }
+                ],
+                "rooms": [
+                  {
+                    "id": "202",
+                    "name": "King Room with Balcony",
+                    "size": 419,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "203",
+                    "name": "Deluxe king Room",
+                    "size": 440,
+                    "refundable": "non refundable",
+                    "payment": "Pay in advance",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "205",
+                    "name": "Two bedroom with balcony",
+                    "size": 490,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "18",
+        "place": "Melbourne City",
+        "placeImage": "https://images.pexels.com/photos/3809777/pexels-photo-3809777.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "Melbourne, VIC, Australia",
+        "Grating": 4.5,
+        "properties": [
+            {
+                "id": 180,
+                "name": "Lesser Calamint",
+                "image": "",
+                "address": "Apt 299",
+                "rating": 4.2,
+                "oldPrice": 2.3,
+                "nowPrice": 2.3,
+                "latitude": 41.58806,
+                "longitude": 21.03111,
+                "photos": [
+                    {
+                        "id": "18000",
+                        "picture": ""
+                      },
+                      {
+                        "id": "18001",
+                        "picture": ""
+                      },
+                      {
+                        "id": "18002",
+                        "picture": ""
+                      }
+                ],
+                "rooms": [
+                  {
+                    "id": "202",
+                    "name": "King Room with Balcony",
+                    "size": 419,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "203",
+                    "name": "Deluxe king Room",
+                    "size": 440,
+                    "refundable": "non refundable",
+                    "payment": "Pay in advance",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "205",
+                    "name": "Two bedroom with balcony",
+                    "size": 490,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  }
+                ]
+            },
+            {
+                "id": 181,
+                "name": "White Bully",
+                "image": "",
+                "address": "Apt 1412",
+                "rating": 6.8,
+                "oldPrice": 8.3,
+                "nowPrice": 7.2,
+                "latitude": 49.858677,
+                "longitude": 18.9770856,
+                "photos": [
+                    {
+                        "id": "18100",
+                        "picture": ""
+                      },
+                      {
+                        "id": "18101",
+                        "picture": ""
+                      },
+                      {
+                        "id": "18102",
+                        "picture": ""
+                      }
+                ],
+                "rooms": [
+                  {
+                    "id": "202",
+                    "name": "King Room with Balcony",
+                    "size": 419,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "203",
+                    "name": "Deluxe king Room",
+                    "size": 440,
+                    "refundable": "non refundable",
+                    "payment": "Pay in advance",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "205",
+                    "name": "Two bedroom with balcony",
+                    "size": 490,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  }
+                ]
+            },
+            {
+                "id": 182,
+                "name": "Macdougal's Bluebells",
+                "image": "",
+                "address": "6th Floor",
+                "rating": 4.8,
+                "oldPrice": 5.7,
+                "nowPrice": 5.1,
+                "latitude": -10.0745443,
+                "longitude": -77.1449212,
+                "photos": [
+                    {
+                        "id": "18200",
+                        "picture": ""
+                      },
+                      {
+                        "id": "18201",
+                        "picture": ""
+                      },
+                      {
+                        "id": "18202",
+                        "picture": ""
+                      }
+                ],
+                "rooms": [
+                  {
+                    "id": "202",
+                    "name": "King Room with Balcony",
+                    "size": 419,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "203",
+                    "name": "Deluxe king Room",
+                    "size": 440,
+                    "refundable": "non refundable",
+                    "payment": "Pay in advance",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "205",
+                    "name": "Two bedroom with balcony",
+                    "size": 490,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  }
+                ]
+            },  {
+                "id": 183,
+                "name": "Macdougal's Bluebells",
+                "image": "",
+                "address": "6th Floor",
+                "rating": 4.8,
+                "oldPrice": 5.7,
+                "nowPrice": 5.1,
+                "latitude": -10.0745443,
+                "longitude": -77.1449212,
+                "photos": [
+                    {
+                        "id": "18300",
+                        "picture": ""
+                      },
+                      {
+                        "id": "18301",
+                        "picture": ""
+                      },
+                      {
+                        "id": "18302",
+                        "picture": ""
+                      },
+                      {
+                        "id": "183023",
+                        "picture": ""
+                      }
+                ],
+                "rooms": [
+                  {
+                    "id": "202",
+                    "name": "King Room with Balcony",
+                    "size": 419,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "203",
+                    "name": "Deluxe king Room",
+                    "size": 440,
+                    "refundable": "non refundable",
+                    "payment": "Pay in advance",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "205",
+                    "name": "Two bedroom with balcony",
+                    "size": 490,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "19",
+        "place": "Handara Gate",
+        "placeImage": "https://images.pexels.com/photos/2166553/pexels-photo-2166553.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "Bali, Indonesia",
+        "Grating": 4.5,
+        "properties": [
+            {
+                "id": 190,
+                "name": "Lesser Calamint",
+                "image": "",
+                "address": "Apt 299",
+                "rating": 4.2,
+                "oldPrice": 2.3,
+                "nowPrice": 2.3,
+                "latitude": 41.58806,
+                "longitude": 21.03111,
+                "photos": [
+                    {
+                        "id": "19000",
+                        "picture": ""
+                      },
+                      {
+                        "id": "19001",
+                        "picture": ""
+                      },
+                      {
+                        "id": "19002",
+                        "picture": ""
+                      },
+                      {
+                        "id": "19023",
+                        "picture": ""
+                      }
+                ],
+                "rooms": [
+                  {
+                    "id": "202",
+                    "name": "King Room with Balcony",
+                    "size": 419,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "203",
+                    "name": "Deluxe king Room",
+                    "size": 440,
+                    "refundable": "non refundable",
+                    "payment": "Pay in advance",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "205",
+                    "name": "Two bedroom with balcony",
+                    "size": 490,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  }
+                ]
+            },
+            {
+                "id": 191,
+                "name": "White Bully",
+                "image": "",
+                "address": "Apt 1412",
+                "rating": 6.8,
+                "oldPrice": 8.3,
+                "nowPrice": 7.2,
+                "latitude": 49.858677,
+                "longitude": 18.9770856,
+                "photos": [
+                    {
+                        "id": "19100",
+                        "picture": ""
+                      },
+                      {
+                        "id": "19101",
+                        "picture": ""
+                      },
+                      {
+                        "id": "19102",
+                        "picture": ""
+                      },
+                      {
+                        "id": "19123",
+                        "picture": ""
+                      }
+                ],
+                "rooms": [
+                  {
+                    "id": "202",
+                    "name": "King Room with Balcony",
+                    "size": 419,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "203",
+                    "name": "Deluxe king Room",
+                    "size": 440,
+                    "refundable": "non refundable",
+                    "payment": "Pay in advance",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "205",
+                    "name": "Two bedroom with balcony",
+                    "size": 490,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  }
+                ]
+            },
+            {
+                "id": 192,
+                "name": "Macdougal's Bluebells",
+                "image": "",
+                "address": "6th Floor",
+                "rating": 4.8,
+                "oldPrice": 5.7,
+                "nowPrice": 5.1,
+                "latitude": -10.0745443,
+                "longitude": -77.1449212,
+                "photos": [
+                    {
+                        "id": "19200",
+                        "picture": ""
+                      },
+                      {
+                        "id": "19201",
+                        "picture": ""
+                      },
+                      {
+                        "id": "19202",
+                        "picture": ""
+                      },
+                      {
+                        "id": "19223",
+                        "picture": ""
+                      }
+                ],
+                "rooms": [
+                  {
+                    "id": "202",
+                    "name": "King Room with Balcony",
+                    "size": 419,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "203",
+                    "name": "Deluxe king Room",
+                    "size": 440,
+                    "refundable": "non refundable",
+                    "payment": "Pay in advance",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "205",
+                    "name": "Two bedroom with balcony",
+                    "size": 490,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  }
+                ]
+            },
+            {
+                "id": 193,
+                "name": "Macdougal's Bluebells",
+                "image": "",
+                "address": "6th Floor",
+                "rating": 4.8,
+                "oldPrice": 5.7,
+                "nowPrice": 5.1,
+                "latitude": -10.0745443,
+                "longitude": -77.1449212,
+                "photos": [
+                    {
+                        "id": "19300",
+                        "picture": ""
+                      },
+                      {
+                        "id": "19301",
+                        "picture": ""
+                      },
+                      {
+                        "id": "19302",
+                        "picture": ""
+                      },
+                      {
+                        "id": "19323",
+                        "picture": ""
+                      }
+                ],
+                "rooms": [
+                  {
+                    "id": "202",
+                    "name": "King Room with Balcony",
+                    "size": 419,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "203",
+                    "name": "Deluxe king Room",
+                    "size": 440,
+                    "refundable": "non refundable",
+                    "payment": "Pay in advance",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "205",
+                    "name": "Two bedroom with balcony",
+                    "size": 490,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "20",
+        "place": "Kuta",
+        "placeImage": "https://images.pexels.com/photos/2474690/pexels-photo-2474690.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "Bali, Indonesia",
+        "Grating": 5.2,
+        "properties": [
+            {
+                "id": 200,
+                "name": "Lesser Calamint",
+                "image": "",
+                "address": "Apt 299",
+                "rating": 4.2,
+                "oldPrice": 2.3,
+                "nowPrice": 2.3,
+                "latitude": 41.58806,
+                "longitude": 21.03111,
+                "photos": [
+                    {
+                        "id": "20000",
+                        "picture": ""
+                      },
+                      {
+                        "id": "20001",
+                        "picture": ""
+                      },
+                      {
+                        "id": "20002",
+                        "picture": ""
+                      },
+                      {
+                        "id": "20023",
+                        "picture": ""
+                      }
+                ],
+                "rooms": [
+                  {
+                    "id": "202",
+                    "name": "King Room with Balcony",
+                    "size": 419,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "203",
+                    "name": "Deluxe king Room",
+                    "size": 440,
+                    "refundable": "non refundable",
+                    "payment": "Pay in advance",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "205",
+                    "name": "Two bedroom with balcony",
+                    "size": 490,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  }
+                ]
+            },
+            {
+                "id": 211,
+                "name": "White Bully",
+                "image": "",
+                "address": "Apt 1412",
+                "rating": 6.8,
+                "oldPrice": 8.3,
+                "nowPrice": 7.2,
+                "latitude": 49.858677,
+                "longitude": 18.9770856,
+                "photos": [
+                    {
+                        "id": "21100",
+                        "picture": ""
+                      },
+                      {
+                        "id": "21101",
+                        "picture": ""
+                      },
+                      {
+                        "id": "21102",
+                        "picture": ""
+                      },
+                      {
+                        "id": "21123",
+                        "picture": ""
+                      }
+                ],
+                "rooms": [
+                  {
+                    "id": "202",
+                    "name": "King Room with Balcony",
+                    "size": 419,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "203",
+                    "name": "Deluxe king Room",
+                    "size": 440,
+                    "refundable": "non refundable",
+                    "payment": "Pay in advance",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "205",
+                    "name": "Two bedroom with balcony",
+                    "size": 490,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  }
+                ]
+            },
+            {
+                "id": 212,
+                "name": "Macdougal's Bluebells",
+                "image": "",
+                "address": "6th Floor",
+                "rating": 4.8,
+                "oldPrice": 5.7,
+                "nowPrice": 5.1,
+                "latitude": -10.0745443,
+                "longitude": -77.1449212,
+                "photos": [
+                    {
+                        "id": "21200",
+                        "picture": ""
+                      },
+                      {
+                        "id": "21201",
+                        "picture": ""
+                      },
+                      {
+                        "id": "21202",
+                        "picture": ""
+                      },
+                      {
+                        "id": "21223",
+                        "picture": ""
+                      }
+                ],
+                "rooms": [
+                  {
+                    "id": "202",
+                    "name": "King Room with Balcony",
+                    "size": 419,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "203",
+                    "name": "Deluxe king Room",
+                    "size": 440,
+                    "refundable": "non refundable",
+                    "payment": "Pay in advance",
+                    "bed": "1 queen bed"
+                  },
+                  {
+                    "id": "205",
+                    "name": "Two bedroom with balcony",
+                    "size": 490,
+                    "refundable": "refundable",
+                    "payment": "Pay at the property",
+                    "bed": "1 queen bed"
+                  }
+                ]
+            }
+        ]
+    }
+]
