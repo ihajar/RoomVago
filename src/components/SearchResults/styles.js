@@ -4,12 +4,13 @@ export default StyleSheet.create({
     cardContainer: {
         display: 'flex',
         flexDirection: 'row',
-        width: '88%',
+        width: '94%',
         margin: 10,
         backgroundColor: 'white',
         borderRadius: 20,
         // justifyContent: 'space-between',
-        alignItems: 'center'
+        alignItems: 'center', 
+        
     },
     imgContainer: {
         width: '40%',

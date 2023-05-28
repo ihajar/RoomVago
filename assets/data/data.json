@@ -12,10 +12,11 @@
                 "image": "https://images.pexels.com/photos/15543102/pexels-photo-15543102/free-photo-of-boat-on-the-canal-by-the-hotel-al-sole-venice-italy.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
                 "address": "Santa Croce, 134/136, 30135 Venezia VE, Italy",
                 "rating": 4.1,
+                "reviews": 450000,
                 "oldPrice": 253,
                 "nowPrice": 181,
-                "latitude": 45.4367,
-                "longitude": 12.3226,
+                "latitude": "45.4367",
+                "longitude": "12.3226",
                 "photos": [
                     {
                         "id": "1000",
@@ -27,6 +28,21 @@
                       },
                       {
                         "id": "1002",
+                        "picture": "https://al-sole-hotel-venice.at-hotels.com/data/Imgs/OriginalPhoto/13108/1310847/1310847073/al-sole-hotel-venice-img-2.JPEG"
+                      },
+                      {
+                        "id": "1003",
+                        "picture": "https://assets.website-files.com/6242ba5aa12afe1adc6fc752/624d77eb094b0d2379bc578a_offerte.jpg"
+                      },
+                      {
+                        "id": "1004",
+                        "picture": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/337064475.jpg?k=15d43acc770d62a35d49aef44be665ae356d032f9bbb2500bec554877d5623d1&o=&hp=1"
+                      },{
+                        "id": "1005",
+                        "picture": "https://media-cdn.tripadvisor.com/media/photo-s/10/b2/fc/df/triple-canale-room--v17335833.jpg"
+                      },
+                      {
+                        "id": "1006",
                         "picture": "https://al-sole-hotel-venice.at-hotels.com/data/Imgs/OriginalPhoto/13108/1310847/1310847073/al-sole-hotel-venice-img-2.JPEG"
                       }
                 ],
@@ -49,7 +65,7 @@
                   },
                   {
                     "id": "205",
-                    "name": "Two bedroom with balcony",
+                    "name": "2 bedroom with balcony",
                     "size": 490,
                     "refundable": "refundable",
                     "payment": "Pay at the property",
@@ -63,10 +79,11 @@
                 "image": "https://files.salsacdn.com/card/1408_Hotel_Rialto/image/2_d.20170803174430.jpg",
                 "address": "Riva del Ferro, 5149, 30124 Venezia VE, Italy",
                 "rating": 4.2,
+                "reviews": 9000,
                 "oldPrice": 257,
                 "nowPrice": 194,
-                "latitude": 45.4376,
-                "longitude": 12.3361,
+                "latitude": "45.4376",
+                "longitude": "12.3361",
                 "photos": [
                     {
                         "id": "1100",
@@ -114,10 +131,11 @@
                 "image": "https://media-cdn.tripadvisor.com/media/photo-s/12/00/be/6c/hotel-mercurio-venezia.jpg",
                 "address": " C. Frutarol, 1848, 30124 Venezia VE, Italy",
                 "rating": 4.3,
+                "reviews": 12000,
                 "oldPrice": 199,
                 "nowPrice": 176,
-                "latitude": 45.4341,
-                "longitude": 12.3345,
+                "latitude": "45.4341",
+                "longitude": "12.3345",
                 "photos": [
                     {
                         "id": "1200",
@@ -174,10 +192,11 @@
                 "image": "",
                 "address": "Apt 299",
                 "rating": 4.2,
+                "reviews": 33200,
                 "oldPrice": 2.3,
                 "nowPrice": 2.3,
-                "latitude": 41.58806,
-                "longitude": 21.03111,
+                "latitude": "41.58806",
+                "longitude":" 21.03111",
                 "photos": [
                     {
                         "id": "2000",
@@ -233,10 +252,11 @@
                 "image": "",
                 "address": "Apt 1412",
                 "rating": 6.8,
+                "reviews": 150000,
                 "oldPrice": 8.3,
                 "nowPrice": 7.2,
-                "latitude": 49.858677,
-                "longitude": 18.9770856,
+                "latitude": "49.858677",
+                "longitude": "18.9770856",
                 "photos": [
                     {
                         "id": "2100",
@@ -302,10 +322,11 @@
                 "image": "",
                 "address": "Apt 299",
                 "rating": 4.2,
+                "reviews": 42000,
                 "oldPrice": 2.3,
                 "nowPrice": 2.3,
-                "latitude": 41.58806,
-                "longitude": 21.03111,
+                "latitude": "41.58806",
+                "longitude": "21.03111",
                 "photos": [
                     {
                         "id": "3000",
@@ -361,10 +382,11 @@
                 "image": "",
                 "address": "Apt 1412",
                 "rating": 6.8,
+                "reviews": 22000,
                 "oldPrice": 8.3,
                 "nowPrice": 7.2,
-                "latitude": 49.858677,
-                "longitude": 18.9770856,
+                "latitude": "49.858677",
+                "longitude": "18.9770856",
                 "photos": [
                     {
                         "id": "3100",
@@ -412,10 +434,11 @@
                 "image": "",
                 "address": "6th Floor",
                 "rating": 4.8,
+                "reviews": 97400,
                 "oldPrice": 5.7,
                 "nowPrice": 5.1,
-                "latitude": -10.0745443,
-                "longitude": -77.1449212,
+                "latitude": "-10.0745443",
+                "longitude": "-77.1449212",
                 "photos": [
                     {
                         "id": "3200",
@@ -471,10 +494,11 @@
                 "image": "",
                 "address": "6th Floor",
                 "rating": 4.8,
+                "reviews": 450000,
                 "oldPrice": 5.7,
                 "nowPrice": 5.1,
-                "latitude": -10.0745443,
-                "longitude": -77.1449212,
+                "latitude": "-10.0745443",
+                "longitude": "-77.1449212",
                 "photos": [
                     {
                         "id": "3300",
@@ -539,10 +563,11 @@
                 "image": "",
                 "address": "Apt 299",
                 "rating": 4.2,
+                "reviews": 450000,
                 "oldPrice": 2.3,
                 "nowPrice": 2.3,
-                "latitude": 41.58806,
-                "longitude": 21.03111,
+                "latitude": "41.58806",
+                "longitude": "21.03111",
                 "photos": [
                     {
                         "id": "4000",
@@ -596,8 +621,8 @@
                 "rating": 6.8,
                 "oldPrice": 8.3,
                 "nowPrice": 7.2,
-                "latitude": 49.858677,
-                "longitude": 18.9770856,
+                "latitude": "49.858677",
+                "longitude": "18.9770856",
                 "photos": [
                     {
                         "id": "4100",
@@ -658,10 +683,11 @@
                 "image": "",
                 "address": "Apt 299",
                 "rating": 4.2,
+                "reviews": 450000,
                 "oldPrice": 2.3,
                 "nowPrice": 2.3,
-                "latitude": 41.58806,
-                "longitude": 21.03111,
+                "latitude": "41.58806",
+                "longitude":" 21.03111",
                 "photos": [
                     {
                         "id": "5000",
@@ -713,10 +739,11 @@
                 "image": "",
                 "address": "Apt 1412",
                 "rating": 6.8,
+                "reviews": 450000,
                 "oldPrice": 8.3,
                 "nowPrice": 7.2,
-                "latitude": 49.858677,
-                "longitude": 18.9770856,
+                "latitude": "49.858677",
+                "longitude": "18.9770856",
                 "photos": [
                     {
                         "id": "5100",
@@ -777,10 +804,11 @@
                 "image": "",
                 "address": "Apt 299",
                 "rating": 4.2,
+                "reviews": 450000,
                 "oldPrice": 2.3,
                 "nowPrice": 2.3,
-                "latitude": 41.58806,
-                "longitude": 21.03111,
+                "latitude": "41.58806",
+                "longitude": "21.03111",
                 "photos": [
                     {
                         "id": "6000",
@@ -828,10 +856,11 @@
                 "image": "",
                 "address": "Apt 1412",
                 "rating": 6.8,
+                "reviews": 450000,
                 "oldPrice": 8.3,
                 "nowPrice": 7.2,
-                "latitude": 49.858677,
-                "longitude": 18.9770856,
+                "latitude": "49.858677",
+                "longitude": "18.9770856",
                 "photos": [
                     {
                         "id": "6100",
@@ -879,10 +908,11 @@
                 "image": "",
                 "address": "6th Floor",
                 "rating": 4.8,
+                "reviews": 450000,
                 "oldPrice": 5.7,
                 "nowPrice": 5.1,
-                "latitude": -10.0745443,
-                "longitude": -77.1449212,
+                "latitude": "-10.0745443",
+                "longitude": "-77.1449212",
                 "photos": [
                     {
                         "id": "6200",
@@ -939,10 +969,11 @@
                 "image": "",
                 "address": "Apt 299",
                 "rating": 4.2,
+                "reviews": 450000,
                 "oldPrice": 2.3,
                 "nowPrice": 2.3,
-                "latitude": 41.58806,
-                "longitude": 21.03111,
+                "latitude": "41.58806",
+                "longitude": "21.03111",
                 "photos": [
                     {
                         "id": "7000",
@@ -1007,10 +1038,11 @@
                 "image": "",
                 "address": "Apt 299",
                 "rating": 4.2,
+                "reviews": 450000,
                 "oldPrice": 2.3,
                 "nowPrice": 2.3,
-                "latitude": 41.58806,
-                "longitude": 21.03111,
+                "latitude": "41.58806",
+                "longitude": "21.03111",
                 "photos": [
                     {
                         "id": "8000",
@@ -1058,10 +1090,11 @@
                 "image": "",
                 "address": "Apt 1412",
                 "rating": 6.8,
+                "reviews": 450000,
                 "oldPrice": 8.3,
                 "nowPrice": 7.2,
-                "latitude": 49.858677,
-                "longitude": 18.9770856,
+                "latitude": "49.858677",
+                "longitude": "18.9770856",
                 "photos": [
                     {
                         "id": "8100",
@@ -1109,10 +1142,11 @@
                 "image": "",
                 "address": "6th Floor",
                 "rating": 4.8,
+                "reviews": 450000,
                 "oldPrice": 5.7,
                 "nowPrice": 5.1,
-                "latitude": -10.0745443,
-                "longitude": -77.1449212,
+                "latitude": "-10.0745443",
+                "longitude": "-77.1449212",
                 "photos": [
                     {
                         "id": "8200",
@@ -1160,10 +1194,11 @@
                 "image": "",
                 "address": "6th Floor",
                 "rating": 4.8,
+                "reviews": 450000,
                 "oldPrice": 5.7,
                 "nowPrice": 5.1,
-                "latitude": -10.0745443,
-                "longitude": -77.1449212,
+                "latitude": "-10.0745443",
+                "longitude": "-77.1449212",
                 "photos": [
                     {
                         "id": "8300",
@@ -1211,10 +1246,11 @@
                 "image": "",
                 "address": "6th Floor",
                 "rating": 4.8,
+                "reviews": 450000,
                 "oldPrice": 5.7,
                 "nowPrice": 5.1,
-                "latitude": -10.0745443,
-                "longitude": -77.1449212,
+                "latitude": "-10.0745443",
+                "longitude": "-77.1449212",
                 "photos": [
                     {
                         "id": "8400",
@@ -1271,10 +1307,11 @@
                 "image": "",
                 "address": "Apt 299",
                 "rating": 4.2,
+                "reviews": 450000,
                 "oldPrice": 2.3,
                 "nowPrice": 2.3,
-                "latitude": 41.58806,
-                "longitude": 21.03111,
+                "latitude": "41.58806",
+                "longitude": "21.03111",
                 "photos": [
                     {
                         "id": "9000",
@@ -1330,10 +1367,11 @@
                 "image": "",
                 "address": "Apt 1412",
                 "rating": 6.8,
+                "reviews": 450000,
                 "oldPrice": 8.3,
                 "nowPrice": 7.2,
-                "latitude": 49.858677,
-                "longitude": 18.9770856,
+                "latitude": "49.858677",
+                "longitude":" 18.9770856",
                 "photos": [
                     {
                         "id": "9100",
@@ -1398,10 +1436,11 @@
                 "image": "",
                 "address": "Apt 299",
                 "rating": 4.2,
+                "reviews": 450000,
                 "oldPrice": 2.3,
                 "nowPrice": 2.3,
-                "latitude": 41.58806,
-                "longitude": 21.03111,
+                "latitude": "41.58806",
+                "longitude":" 21.03111",
                 "photos": [
                     {
                         "id": "10000",
@@ -1453,10 +1492,11 @@
                 "image": "",
                 "address": "Apt 1412",
                 "rating": 6.8,
+                "reviews": 450000,
                 "oldPrice": 8.3,
                 "nowPrice": 7.2,
-                "latitude": 49.858677,
-                "longitude": 18.9770856,
+                "latitude": "49.858677",
+                "longitude": "18.9770856",
                 "photos": [
                     {
                         "id": "10100",
@@ -1517,10 +1557,11 @@
                 "image": "",
                 "address": "Apt 299",
                 "rating": 4.2,
+                "reviews": 450000,
                 "oldPrice": 2.3,
                 "nowPrice": 2.3,
-                "latitude": 41.58806,
-                "longitude": 21.03111,
+                "latitude": "41.58806",
+                "longitude": "21.03111",
                 "photos": [
                     {
                         "id": "11000",
@@ -1568,10 +1609,11 @@
                 "image": "",
                 "address": "Apt 1412",
                 "rating": 6.8,
+                "reviews": 450000,
                 "oldPrice": 8.3,
                 "nowPrice": 7.2,
-                "latitude": 49.858677,
-                "longitude": 18.9770856,
+                "latitude": "49.858677",
+                "longitude": "18.9770856",
                 "photos": [
                     {
                         "id": "11100",
@@ -1623,10 +1665,11 @@
                 "image": "",
                 "address": "6th Floor",
                 "rating": 4.8,
+                "reviews": 450000,
                 "oldPrice": 5.7,
                 "nowPrice": 5.1,
-                "latitude": -10.0745443,
-                "longitude": -77.1449212,
+                "latitude": "-10.0745443",
+                "longitude": "-77.1449212",
                 "photos": [
                     {
                         "id": "11200",
@@ -1687,10 +1730,11 @@
                 "image": "",
                 "address": "Apt 299",
                 "rating": 4.2,
+                "reviews": 450000,
                 "oldPrice": 2.3,
                 "nowPrice": 2.3,
-                "latitude": 41.58806,
-                "longitude": 21.03111,
+                "latitude": "41.58806",
+                "longitude": "21.03111",
                 "photos": [
                     {
                         "id": "12000",
@@ -1742,10 +1786,11 @@
                 "image": "",
                 "address": "Apt 1412",
                 "rating": 6.8,
+                "reviews": 450000,
                 "oldPrice": 8.3,
                 "nowPrice": 7.2,
-                "latitude": 49.858677,
-                "longitude": 18.9770856,
+                "latitude": "49.858677",
+                "longitude": "18.9770856",
                 "photos": [
                     {
                         "id": "121000",
@@ -1806,10 +1851,11 @@
                 "image": "",
                 "address": "Apt 299",
                 "rating": 4.2,
+                "reviews": 450000,
                 "oldPrice": 2.3,
                 "nowPrice": 2.3,
-                "latitude": 41.58806,
-                "longitude": 21.03111,
+                "latitude": "41.58806",
+                "longitude": "21.03111",
                 "photos": [
                     {
                         "id": "13000",
@@ -1861,10 +1907,11 @@
                 "image": "",
                 "address": "Apt 1412",
                 "rating": 6.8,
+                "reviews": 450000,
                 "oldPrice": 8.3,
                 "nowPrice": 7.2,
-                "latitude": 49.858677,
-                "longitude": 18.9770856,
+                "latitude": "49.858677",
+                "longitude": "18.9770856",
                 "photos": [
                     {
                         "id": "13100",
@@ -1925,10 +1972,11 @@
                 "image": "",
                 "address": "Apt 299",
                 "rating": 4.2,
+                "reviews": 450000,
                 "oldPrice": 2.3,
                 "nowPrice": 2.3,
-                "latitude": 41.58806,
-                "longitude": 21.03111,
+                "latitude": "41.58806",
+                "longitude": "21.03111",
                 "photos": [
                     {
                         "id": "14000",
@@ -1976,10 +2024,11 @@
                 "image": "",
                 "address": "Apt 1412",
                 "rating": 6.8,
+                "reviews": 450000,
                 "oldPrice": 8.3,
                 "nowPrice": 7.2,
-                "latitude": 49.858677,
-                "longitude": 18.9770856,
+                "latitude": "49.858677",
+                "longitude": "18.9770856",
                 "photos": [
                     {
                         "id": "14100",
@@ -2027,10 +2076,11 @@
                 "image": "",
                 "address": "6th Floor",
                 "rating": 4.8,
+                "reviews": 450000,
                 "oldPrice": 5.7,
                 "nowPrice": 5.1,
-                "latitude": -10.0745443,
-                "longitude": -77.1449212,
+                "latitude": "-10.0745443",
+                "longitude":" -77.1449212",
                 "photos": [
                     {
                         "id": "14200",
@@ -2087,10 +2137,11 @@
                 "image": "",
                 "address": "Apt 299",
                 "rating": 4.2,
+                "reviews": 450000,
                 "oldPrice": 2.3,
                 "nowPrice": 2.3,
-                "latitude": 41.58806,
-                "longitude": 21.03111,
+                "latitude": "41.58806",
+                "longitude": "21.03111",
                 "photos": [
                     {
                         "id": "15000",
@@ -2138,10 +2189,11 @@
                 "image": "",
                 "address": "Apt 1412",
                 "rating": 6.8,
+                "reviews": 450000,
                 "oldPrice": 8.3,
                 "nowPrice": 7.2,
-                "latitude": 49.858677,
-                "longitude": 18.9770856,
+                "latitude": "49.858677",
+                "longitude":" 18.9770856",
                 "photos": [
                     {
                         "id": "15100",
@@ -2198,10 +2250,11 @@
                 "image": "",
                 "address": "Apt 299",
                 "rating": 4.2,
+                "reviews": 450000,
                 "oldPrice": 2.3,
                 "nowPrice": 2.3,
-                "latitude": 41.58806,
-                "longitude": 21.03111,
+                "latitude":" 41.58806",
+                "longitude": "21.03111",
                 "photos": [
                     {
                         "id": "16000",
@@ -2249,10 +2302,11 @@
                 "image": "",
                 "address": "Apt 1412",
                 "rating": 6.8,
+                "reviews": 450000,
                 "oldPrice": 8.3,
                 "nowPrice": 7.2,
-                "latitude": 49.858677,
-                "longitude": 18.9770856,
+                "latitude": "49.858677",
+                "longitude": "18.9770856",
                 "photos": [
                     {
                         "id": "16100",
@@ -2300,10 +2354,11 @@
                 "image": "",
                 "address": "6th Floor",
                 "rating": 4.8,
+                "reviews": 450000,
                 "oldPrice": 5.7,
                 "nowPrice": 5.1,
-                "latitude": -10.0745443,
-                "longitude": -77.1449212,
+                "latitude": "-10.0745443",
+                "longitude": "-77.1449212",
                 "photos": [
                     {
                         "id": "16200",
@@ -2360,10 +2415,11 @@
                 "image": "",
                 "address": "Apt 299",
                 "rating": 4.2,
+                "reviews": 450000,
                 "oldPrice": 2.3,
                 "nowPrice": 2.3,
-                "latitude": 41.58806,
-                "longitude": 21.03111,
+                "latitude": "41.58806",
+                "longitude": "21.03111",
                 "photos": [
                     {
                         "id": "17000",
@@ -2411,10 +2467,11 @@
                 "image": "",
                 "address": "Apt 1412",
                 "rating": 6.8,
+                "reviews": 450000,
                 "oldPrice": 8.3,
                 "nowPrice": 7.2,
-                "latitude": 49.858677,
-                "longitude": 18.9770856,
+                "latitude": "49.858677",
+                "longitude": "18.9770856",
                 "photos": [
                     {
                         "id": "17100",
@@ -2471,10 +2528,11 @@
                 "image": "",
                 "address": "Apt 299",
                 "rating": 4.2,
+                "reviews": 450000,
                 "oldPrice": 2.3,
                 "nowPrice": 2.3,
-                "latitude": 41.58806,
-                "longitude": 21.03111,
+                "latitude": "41.58806",
+                "longitude": "21.03111",
                 "photos": [
                     {
                         "id": "18000",
@@ -2522,10 +2580,11 @@
                 "image": "",
                 "address": "Apt 1412",
                 "rating": 6.8,
+                "reviews": 450000,
                 "oldPrice": 8.3,
                 "nowPrice": 7.2,
-                "latitude": 49.858677,
-                "longitude": 18.9770856,
+                "latitude": "49.858677",
+                "longitude": "18.9770856",
                 "photos": [
                     {
                         "id": "18100",
@@ -2573,10 +2632,11 @@
                 "image": "",
                 "address": "6th Floor",
                 "rating": 4.8,
+                "reviews": 450000,
                 "oldPrice": 5.7,
                 "nowPrice": 5.1,
-                "latitude": -10.0745443,
-                "longitude": -77.1449212,
+                "latitude": "-10.0745443",
+                "longitude": "-77.1449212",
                 "photos": [
                     {
                         "id": "18200",
@@ -2623,10 +2683,11 @@
                 "image": "",
                 "address": "6th Floor",
                 "rating": 4.8,
+                "reviews": 450000,
                 "oldPrice": 5.7,
                 "nowPrice": 5.1,
-                "latitude": -10.0745443,
-                "longitude": -77.1449212,
+                "latitude": "-10.0745443",
+                "longitude":" -77.1449212",
                 "photos": [
                     {
                         "id": "18300",
@@ -2687,10 +2748,11 @@
                 "image": "",
                 "address": "Apt 299",
                 "rating": 4.2,
+                "reviews": 450000,
                 "oldPrice": 2.3,
                 "nowPrice": 2.3,
-                "latitude": 41.58806,
-                "longitude": 21.03111,
+                "latitude": "41.58806",
+                "longitude": "21.03111",
                 "photos": [
                     {
                         "id": "19000",
@@ -2742,10 +2804,11 @@
                 "image": "",
                 "address": "Apt 1412",
                 "rating": 6.8,
+                "reviews": 450000,
                 "oldPrice": 8.3,
                 "nowPrice": 7.2,
-                "latitude": 49.858677,
-                "longitude": 18.9770856,
+                "latitude": "49.858677",
+                "longitude":" 18.9770856",
                 "photos": [
                     {
                         "id": "19100",
@@ -2797,10 +2860,11 @@
                 "image": "",
                 "address": "6th Floor",
                 "rating": 4.8,
+                "reviews": 450000,
                 "oldPrice": 5.7,
                 "nowPrice": 5.1,
-                "latitude": -10.0745443,
-                "longitude": -77.1449212,
+                "latitude": "-10.0745443",
+                "longitude": "-77.1449212",
                 "photos": [
                     {
                         "id": "19200",
@@ -2852,10 +2916,11 @@
                 "image": "",
                 "address": "6th Floor",
                 "rating": 4.8,
+                "reviews": 450000,
                 "oldPrice": 5.7,
                 "nowPrice": 5.1,
-                "latitude": -10.0745443,
-                "longitude": -77.1449212,
+                "latitude": "-10.0745443",
+                "longitude":" -77.1449212",
                 "photos": [
                     {
                         "id": "19300",
@@ -2916,10 +2981,11 @@
                 "image": "",
                 "address": "Apt 299",
                 "rating": 4.2,
+                "reviews": 450000,
                 "oldPrice": 2.3,
                 "nowPrice": 2.3,
-                "latitude": 41.58806,
-                "longitude": 21.03111,
+                "latitude": "41.58806",
+                "longitude": "21.03111",
                 "photos": [
                     {
                         "id": "20000",
@@ -2971,10 +3037,11 @@
                 "image": "",
                 "address": "Apt 1412",
                 "rating": 6.8,
+                "reviews": 450000,
                 "oldPrice": 8.3,
                 "nowPrice": 7.2,
-                "latitude": 49.858677,
-                "longitude": 18.9770856,
+                "latitude": "49.858677",
+                "longitude": "18.9770856",
                 "photos": [
                     {
                         "id": "21100",
@@ -3026,10 +3093,11 @@
                 "image": "",
                 "address": "6th Floor",
                 "rating": 4.8,
+                "reviews": 450000,
                 "oldPrice": 5.7,
                 "nowPrice": 5.1,
-                "latitude": -10.0745443,
-                "longitude": -77.1449212,
+                "latitude": "-10.0745443",
+                "longitude": "-77.1449212",
                 "photos": [
                     {
                         "id": "21200",
