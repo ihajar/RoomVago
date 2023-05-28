@@ -1,13 +1,6 @@
 import { StyleSheet } from "react-native";
 
 export default StyleSheet.create({
-    propertyContainer: {
-        // flexDirection: 'column',
-        // width: '100%',
-      
-        // alignItems: 'center',
-        // justifyContent: 'space-between',
-    },
     topContainer: {
         width: '100%',
         flexDirection: 'column',
@@ -21,39 +14,6 @@ export default StyleSheet.create({
         margin: 10,
         width: '100%',
     },
-    // stayContainer: {
-    //     flexDirection: 'column',
-    //     justifyContent: 'space-between',
-    //     alignItems: 'center',
-    //     width: '100%',
-    //     margin: 20,
-    // },
-    // appContainer: {
-    //     flex: 1,
-    //     display: 'flex',
-    //     flexDirection: 'column',
-    //     margin: 10,
-    //     backgroundColor: 'white',
-    //     borderRadius: 20,
-    //     alignItems: 'center',
-    //     justifyContent: 'space-evenly',
-    // },
-    // container: {
-    //     flexDirection: 'column',
-    //     alignItems: 'center',
-    //     justifyContent: 'flex-start',
-    // },
-    // detailsTxt: {
-    //     fontSize: 15, 
-    //     fontWeight: '500',
-    //     color: '#095086',
-    // },
-    // guestsContainer: {
-    //     flexDirection: 'row',
-    //     justifyContent: 'space-around',
-    //     alignItems: 'center'
-    // },
-    
 
     detailsContainer: {
         display: 'flex',
@@ -69,7 +29,7 @@ export default StyleSheet.create({
     },
    
     name: {
-        fontSize: 20,
+        fontSize: 22,
         fontWeight: '600',
         textAlign: 'left',
         paddingLeft: 10,
@@ -99,37 +59,45 @@ export default StyleSheet.create({
         color: '#474747',
         paddingVertical: 5
     },
-    // offerContainer: {
-    //     display: 'flex',
-    //     flexDirection: 'row',
-    //     alignItems: 'center',
-    //     justifyContent: 'space-between',
-    //     margin:  10
-    // },
     offerDetailsContainer: {
         display: 'flex',
         flexDirection: 'column',
-        justifyContent: 'space-evenly'
+        justifyContent: 'space-evenly',
+        margin: 10
     },
     OfferTxt: {
         paddingLeft: 10,
         fontSize: 18,
         fontWeight: '600',
+        paddingLeft: 5,
     },
     offerIconsContainer: {
         flexDirection: 'row',
         alignItems: 'center',
         justifyContent: 'flex-start',
-        flex: 1
+        flex: 1,
+        flexWrap: 'wrap',
+        alignContent: 'center',
+        width: '100%'
     },
-    roomsTxt: {
-        fontSize: 12,
-        textAlign: 'center',
-        alignSelf: 'center',
+    iconsContainer: {
+        display: 'flex',
+        flexDirection: 'column',
+        alignItems: 'center',
+        justifyContent: 'space-between',
+        backgroundColor: 'white',
+        margin: 10,
+        borderRadius: 10,
+        padding: 10,
+        alignContent: 'center',
+        width: 'auto'
+    },
+    iconsTxt: {
+        fontSize: 16,
         fontWeight: '600',
-        paddingVertical: 5,
+        color: '#095086',
         paddingHorizontal: 5,
-        color: '#095086'
+        paddingVertical: 5,
     },
     offContainer: {
         marginHorizontal: 12,
@@ -148,5 +116,40 @@ export default StyleSheet.create({
         color: "white", 
         fontWeight: '500',
         fontSize: 16,
+    },
+    stayContainer: {
+        flexDirection: 'column', 
+        alignItems: 'flex-start', 
+        margin: 10
+    },
+    appContainer: {
+        flexDirection: 'column', 
+        alignItems: 'flex-start', 
+        backgroundColor: 'white', 
+        borderRadius: 20,
+        justifyContent: 'space-between', 
+        width: '100%', 
+        marginVertical: 10
+    },
+    container: {
+        flexDirection: 'column', 
+        justifyContent:'space-evenly', 
+        marginHorizontal: 10,
+        padding: 10
+    },
+    divider: {
+        backgroundColor: '#D8ECFD',
+        width: '90%',
+        height: 1,
+        marginHorizontal: 20, 
+    },
+    btnContainer: {
+        marginHorizontal: 20,
+        marginVertical: 20,
+        width: "90%",
+        backgroundColor: '#095086',
+        padding: 20,
+        borderRadius: 20,
+        alignItems: 'center'
     }
 });

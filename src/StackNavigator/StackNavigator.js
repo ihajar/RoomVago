@@ -13,6 +13,7 @@ import SearchScreen from '../screens/SearchScreen/SearchScreen'
 import PlacesScreen from '../screens/PlacesScreen/PlacesScreen'
 import MapScreen from '../screens/MapScreen/MapScreen'
 import PropertyInfoScreen from '../screens/PropertyInfoScreen/PropertyInfoScreen'
+import RoomsScreen from '../screens/RoomsScreen/RoomsScreen'
 
 // Icons
 import { AntDesign, Foundation, Ionicons } from '@expo/vector-icons';
@@ -69,6 +70,7 @@ const StackNavigator = () => {
             <Stack.Screen name='Places' component={PlacesScreen} options={{headerShown: true}} />
             <Stack.Screen name='Map' component={MapScreen} options={{headerShown:true}} />
             <Stack.Screen name='Info' component={PropertyInfoScreen} options={{headerShown:false}} />
+            <Stack.Screen name='Rooms' component={RoomsScreen}  />
         </Stack.Navigator>
     </NavigationContainer>
   )

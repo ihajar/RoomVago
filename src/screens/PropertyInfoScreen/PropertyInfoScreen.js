@@ -2,38 +2,23 @@ import { Image, Text, View, SafeAreaView, ScrollView, Pressable, StyleSheet } fr
 import React, {useLayoutEffect} from 'react'
 import styles from './styles'
 import { useNavigation, useRoute } from '@react-navigation/native'
-import { AntDesign, EvilIcons, Ionicons, Feather, MaterialIcons, MaterialCommunityIcons } from '@expo/vector-icons';
+import { AntDesign, EvilIcons, Ionicons, Feather, FontAwesome5, MaterialIcons } from '@expo/vector-icons';
 import { pixelNormalize } from '../../components/Normalise/Normalise'
-import { registerRootComponent } from 'expo';
+
+
 
 const PropertyInfoScreen = () => {
     const route = useRoute();
     const navigation = useNavigation();
 
-    console.log(route.params.rooms);  
-    // useLayoutEffect(() => {
-    //   navigation.setOptions({
-    //     headerShown: true,
-    //     title: 'Your Stay',
-    //     headerTitleStyle: {
-    //      fontSize: 22,
-    //      fontWeight: 'bold',
-    //      color: '#010B13'
-    //     },
-    //     headerStyle: {
-    //       height: 120,
-    //       backgroundColor: 'white',
-    //       borderBottomColor: 'transparent',
-    //       shadowColor: 'transparent',
-    //     },
-    //   })
-    // }, []);
+    // console.log(route.params.rooms);  
+    
 
     const difference = route.params.oldPrice - route.params.nowPrice;
     const offerPrice = (Math.abs(difference) / route.params.oldPrice) * 100;
   return (
     <>
-    <SafeAreaView style={{backgroundColor: '#EBEBEB', height: '100%'}}>
+    <SafeAreaView style={{backgroundColor: '#f5f5f5', height: '100%'}}>
     
       <ScrollView style={styles.propertyContainer}>
         <View style={styles.topContainer}>  
@@ -77,74 +62,100 @@ const PropertyInfoScreen = () => {
         </Pressable>
         <View>
           <View style={styles.offerDetailsContainer}>
-            <Text style={styles.OfferTxt}>What we offer</Text>
+            <Text style={styles.OfferTxt}>Facilities</Text>
             <View style={styles.offerIconsContainer}>
-              {route.params.rooms.map((room) => (
-                
-                <View style={{width: 82, height:pixelNormalize(120), borderRadius: pixelNormalize(15),
-                              backgroundColor: 'white', margin: 6, alignItems: 'center' }}>
-                  <Text style={styles.roomsTxt}>{room.name.length > 15 ? room.name.substr(0,15) : room.name}</Text>
-                  <MaterialCommunityIcons name="bed-queen-outline" size={24} color="#095086" />
-                  <Text style={{color: '#095086', fontSize: 12}}>{room.bed}</Text>
-                    
-                  <Text style={{color: '#095086', fontSize: 12}}>size of {room.size}</Text>
+             <View style={{ flexDirection: 'row', flexWrap: 'wrap', width: '100%'
+                            }}
+              >
+                <View style={styles.iconsContainer}>
+                  <FontAwesome5 name="parking" size={28} color="#095086" />
+                  <Text style={styles.iconsTxt}>Parking</Text>
                 </View>
-              ))}
+                
+                <View style={styles.iconsContainer}>
+                  <AntDesign name="wifi" size={28} color="#095086" />
+                  <Text style={styles.iconsTxt}>WiFi</Text>
+                </View>
+
+                <View style={styles.iconsContainer}>
+                  <MaterialIcons name="pool" size={28} color="#095086" />
+                  <Text style={styles.iconsTxt}>Pool</Text>
+                </View>
+
+                <View style={styles.iconsContainer}>
+                  <MaterialIcons name="fitness-center" size={28} color="#095086" />
+                  <Text style={styles.iconsTxt}>Gym</Text>
+                </View>
+             </View>
 
             </View>
           </View>
-          {/* <View style={styles.offContainer}>
-            <MaterialIcons name="local-offer" size={18} color="white" />
-            <Text style={styles.offTxt}>
-              {offerPrice.toFixed(0)} % OFF
-            </Text>
-          </View> */}
+          {/*  */}
         </View>
         
-       
-
-      </ScrollView>
-      
-    </SafeAreaView>
-    {/* Your Trip */}
-        {/* <View style={styles.stayContainer}>
-          <Text style={{fontSize: 20, fontWeight: '600'}}>Your Application</Text>
+        <View style={styles.stayContainer}>
+          <Text style={{fontSize: 22, fontWeight: '700', textAlign: 'left', paddingLeft: 10}}>
+            Your stay
+          </Text>
           <View style={styles.appContainer}>
-           
             <View style={styles.container}>
-              <Text style={{fontSize: 17, fontWeight: '500'}}>CheckIn/CheckOut Dates</Text>
-              <Text style={styles.detailsTxt}>{route.params.startDate}-{route.params.endDate}</Text>
+              <Text style={{fontSize: 20, fontWeight: '500', paddingVertical: 5}}>Check In</Text>
+              <Text style={{fontSize: 18, color: '#095086'}}>{route.params.startDate}</Text>
             </View>
-           
-            <View
-              style={{
-                borderBottomColor: 'grey',
-                borderBottomWidth: StyleSheet.hairLineWidth
-              }}
-            />
-           
+            <View style={styles.divider}/>
             <View style={styles.container}>
-              <Text style={{fontSize: 17, fontWeight: '500'}}>Guests</Text>
-              <View style={styles.guestsContainer}>
-                <Text style={styles.detailsTxt}>{route.params.adults} </Text>
-                <Text style={styles.detailsTxt}>{route.params.children} </Text>
+              <Text style={{fontSize: 20, fontWeight: '500', paddingVertical: 5}}>Check Out</Text>
+              <Text style={{fontSize: 18, color: '#095086'}}>{route.params.endDate}</Text>
+            </View>
+            <View style={styles.divider}/>
+            <View style={styles.container}>
+              <Text style={{fontSize: 20, fontWeight: '500', paddingVertical: 5}}>Guests</Text>
+              <Text style={{fontSize: 18, color: '#095086'}}>
+                {route.params.adults} adults {route.params.children} children
+              </Text>
+            </View>
+            <View style={styles.divider}/>
+            <View style={styles.container}>
+              <Text style={{fontSize: 20, fontWeight: '500', paddingVertical: 5}}>Rooms</Text>
+              <Text style={{fontSize: 18, color: '#095086'}}>
+                {route.params.Rooms} bedroom
+              </Text>
+            </View>
+            <View style={styles.divider}/>
+            <View style={styles.container}>
+              <Text style={{fontSize: 20, fontWeight: '500', paddingVertical: 5}}>Price for 1 Night and {route.params.adults} adults</Text>
+              <View style={{flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between', width: '100%', paddingBottom: 10}}>
+                <Text style={{fontSize: 18, color: '#095086', fontWeight: '600'}}> $ {route.params.nowPrice * route.params.adults}</Text>
+                <View style={styles.offContainer}>
+                  <MaterialIcons name="local-offer" size={18} color="white" />
+                  <Text style={styles.offTxt}>{offerPrice.toFixed(0)} % OFF</Text>
+                </View>
               </View>
             </View>
-            
-            <View style={styles.container}>
-              <Text style={{fontSize: 17, fontWeight: '500'}}>Rooms</Text>
-              <Text style={styles.detailsTxt}>{route.params.rooms}</Text>
-            </View>
-           
-            <View style={styles.container}>
-              <Text style={{fontSize: 17, fontWeight: '500'}}>Total Price</Text>
-              <Text style={{fontSize: 16, fontWeight: '600'}}>$ {route.params.nowPrice * route.params.adults}</Text>
-            </View>
           </View>
-          
-         
-          
-        </View> */}
+        </View>
+
+      </ScrollView>
+      <Pressable 
+      onPress={() => navigation.navigate('Rooms', {
+        rooms:route.params.rooms,
+        oldPrice:route.params.oldPrice,
+        nowPrice:route.params.nowPrice,
+        name:route.params.name,
+        children:route.params.children,
+        adults:route.params.adults,
+        rating:route.params.rating,
+        startDate:route.params.startDate,
+        endDate:route.params.endDate,
+      })}
+      style={styles.btnContainer}
+    >
+      <Text style={{fontSize: 20, fontWeight: 'bold', color: 'white', textAlign: 'center'}}>Select Availability</Text>
+    </Pressable>
+      
+    </SafeAreaView>
+
+   
     </>
   )
 }

@@ -50,6 +50,7 @@
                   {
                     "id": "202",
                     "name": "King Room with Balcony",
+                    "image": "https://al-sole-hotel-venice.booked.net/data/Photos/OriginalPhoto/6821/682126/682126056/Palazzo-Marcello-Hotel-Al-Sole-Venice-Exterior.JPEG",
                     "size": 419,
                     "refundable": "refundable",
                     "payment": "Pay at the property",
@@ -58,6 +59,7 @@
                   {
                     "id": "203",
                     "name": "Deluxe king Room",
+                    "image": "https://www.alsolevenicehotel.com/wp-content/uploads/2019/03/junior-suite-canal-view.jpg",
                     "size": 440,
                     "refundable": "non refundable",
                     "payment": "Pay in advance",
@@ -65,7 +67,8 @@
                   },
                   {
                     "id": "205",
-                    "name": "2 bedroom with balcony",
+                    "name": "Two bedroom with balcony",
+                    "image": "https://i.travelapi.com/lodging/1000000/530000/527200/527182/ac7c7cd1_z.jpg",
                     "size": 490,
                     "refundable": "refundable",
                     "payment": "Pay at the property",
