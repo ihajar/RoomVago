@@ -17,7 +17,7 @@ const PlacesScreen = () => {
     useLayoutEffect(() => {
         navigation.setOptions({
           headerShown: true,
-          title: 'Popular Places',
+          title: 'Popular Stay Ins',
           headerTitleStyle: {
            fontSize: 24,
            fontWeight: 'bold',
@@ -36,15 +36,15 @@ const PlacesScreen = () => {
     <View>
       <Pressable style={styles.hdIconContainer}>
         <Pressable style={styles.icnContainer} >
-            <Octicons name="arrow-switch" size={24} color="black" />
+            <Octicons name="arrow-switch" size={24} color="#095086" />
             <Text style={styles.icnTxt}>Sort</Text>
         </Pressable>
         <Pressable style={styles.icnContainer}>
-        <Ionicons name="filter-outline" size={24} color="black" />
+        <Ionicons name="filter-outline" size={24} color="#095086" />
             <Text style={styles.icnTxt}>Filter</Text>
         </Pressable>
         <Pressable style={styles.icnContainer}>
-        <MaterialCommunityIcons name="map-marker-radius-outline" size={24} color="black" />
+        <MaterialCommunityIcons name="map-marker-radius-outline" size={24} color="#095086" />
             <Text style={styles.icnTxt}>Map</Text>
         </Pressable>
       </Pressable>

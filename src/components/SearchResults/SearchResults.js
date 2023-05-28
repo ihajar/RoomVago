@@ -23,7 +23,7 @@ const SearchResults = ({data, input, setInput}) => {
                                 input: item.place
                             })
                         }}
-                    >
+                    > 
                         <View style={styles.imgContainer}>
                             <Image
                                 style={styles.image}

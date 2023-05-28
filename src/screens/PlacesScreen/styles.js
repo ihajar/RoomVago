@@ -6,7 +6,7 @@ export default StyleSheet.create({
         justifyContent:'space-between', 
         paddingHorizontal: 20, 
         padding:12, 
-        backgroundColor: 'white'
+        backgroundColor: '#D9EDFC'
     },
     icnContainer: {
         flexDirection: 'row', 
@@ -16,7 +16,8 @@ export default StyleSheet.create({
     icnTxt: {
         paddingHorizontal: 5,
         fontSize: 15,
-        fontWeight: '500'
+        fontWeight: '500',
+        color: '#095086'
     },
     prptyContainer: {
         backgroundColor: '#F5F5F5',
