@@ -14,6 +14,8 @@ import PlacesScreen from '../screens/PlacesScreen/PlacesScreen'
 import MapScreen from '../screens/MapScreen/MapScreen'
 import PropertyInfoScreen from '../screens/PropertyInfoScreen/PropertyInfoScreen'
 import RoomsScreen from '../screens/RoomsScreen/RoomsScreen'
+import UserScreen from '../screens/UserScreen/UserScreen'
+import ConfirmationScreen from '../screens/ConfirmationScreen/ConfirmationScreen'
 
 // Icons
 import { AntDesign, Foundation, Ionicons } from '@expo/vector-icons';
@@ -51,7 +53,7 @@ const StackNavigator = () => {
                     )}} 
                 />
                  <Tab.Screen 
-                    name='Profile' component={ProfileScreen} 
+                    name='Profile' component={UserScreen} 
                     options={{tabBarLabel: 'Profile', headerShown: false, tabBarIcon: ({focused}) => focused ? (
                         <Ionicons name="person" size={30} color="#095086" />
                     ) : (
@@ -70,7 +72,9 @@ const StackNavigator = () => {
             <Stack.Screen name='Places' component={PlacesScreen} options={{headerShown: true}} />
             <Stack.Screen name='Map' component={MapScreen} options={{headerShown:true}} />
             <Stack.Screen name='Info' component={PropertyInfoScreen} options={{headerShown:false}} />
-            <Stack.Screen name='Rooms' component={RoomsScreen}  />
+            <Stack.Screen name='Rooms' component={RoomsScreen} />
+            <Stack.Screen name='User' component={UserScreen} />
+            <Stack.Screen name="Confirmation" component={ConfirmationScreen} />
         </Stack.Navigator>
     </NavigationContainer>
   )
