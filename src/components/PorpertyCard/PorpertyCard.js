@@ -8,7 +8,7 @@ import { useNavigation } from '@react-navigation/native';
 const PorpertyCard = ({property, rooms, adults, children, startDate, endDate, availableRooms}) => {
     const {width, height} = Dimensions.get("window")
     const navigation = useNavigation();
-
+    console.log(property.address)
   return (
     
     <View style={styles.mainContainer}>

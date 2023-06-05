@@ -105,6 +105,7 @@
                   {
                     "id": "202",
                     "name": "King Room with Balcony",
+                    "image":"",
                     "size": 419,
                     "refundable": "refundable",
                     "payment": "Pay at the property",
@@ -113,6 +114,7 @@
                   {
                     "id": "203",
                     "name": "Deluxe king Room",
+                    "image":"",
                     "size": 440,
                     "refundable": "non refundable",
                     "payment": "Pay in advance",
@@ -121,6 +123,7 @@
                   {
                     "id": "205",
                     "name": "Two bedroom with balcony",
+                    "image":"",
                     "size": 490,
                     "refundable": "refundable",
                     "payment": "Pay at the property",
@@ -226,6 +229,7 @@
                   {
                     "id": "202",
                     "name": "King Room with Balcony",
+                    "image":"",
                     "size": 419,
                     "refundable": "refundable",
                     "payment": "Pay at the property",
@@ -234,6 +238,7 @@
                   {
                     "id": "203",
                     "name": "Deluxe king Room",
+                    "image":"",
                     "size": 440,
                     "refundable": "non refundable",
                     "payment": "Pay in advance",
@@ -242,6 +247,7 @@
                   {
                     "id": "205",
                     "name": "Two bedroom with balcony",
+                    "image":"",
                     "size": 490,
                     "refundable": "refundable",
                     "payment": "Pay at the property",
@@ -286,6 +292,7 @@
                   {
                     "id": "202",
                     "name": "King Room with Balcony",
+                    "image":"",
                     "size": 419,
                     "refundable": "refundable",
                     "payment": "Pay at the property",
@@ -294,6 +301,7 @@
                   {
                     "id": "203",
                     "name": "Deluxe king Room",
+                    "image":"",
                     "size": 440,
                     "refundable": "non refundable",
                     "payment": "Pay in advance",

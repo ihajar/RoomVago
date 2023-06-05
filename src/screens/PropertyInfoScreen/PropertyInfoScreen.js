@@ -11,7 +11,7 @@ const PropertyInfoScreen = () => {
     const route = useRoute();
     const navigation = useNavigation();
 
-    // console.log(route.params.rooms);  
+    console.log(route.params.address);  
     
 
     const difference = route.params.oldPrice - route.params.nowPrice;
@@ -147,6 +147,7 @@ const PropertyInfoScreen = () => {
         rating:route.params.rating,
         startDate:route.params.startDate,
         endDate:route.params.endDate,
+        address:route.params.adress,
       })}
       style={styles.btnContainer}
     >

@@ -7,8 +7,9 @@ import styles from "./styles";
 
 const RoomsScreen = () => {
   const route = useRoute();
-  console.log(route.params);
+  
   const navigation = useNavigation();
+
   useLayoutEffect(() => {
     navigation.setOptions({
       headerShown: true,
@@ -24,9 +25,20 @@ const RoomsScreen = () => {
         borderBottomColor: 'transparent',
         shadowColor: 'transparent',
       },
-    });
+    }); 
   }, []);
+
   const [selected, setSelected] = useState([]);
+  console.log(selected);
+  
+  // const [selectedItem, setSelectedItem] = useState(null);
+  // const findRoomSelected = (selected) => {
+  //   const room = route.params.rooms.find((room) => room.name === selected);
+  //  setSelectedItem(room)
+    
+  // }
+
+  // console.log(selectedItem)
   return (
     <>
       <ScrollView style={{backgroundColor: '#ECF6FE'}}>
@@ -91,9 +103,10 @@ const RoomsScreen = () => {
               </Pressable>
             )}
           </Pressable>
+          
         ))}
       </ScrollView>
-
+      
       {selected.length > 0 ? (
         <Pressable
           onPress={() =>
@@ -106,6 +119,10 @@ const RoomsScreen = () => {
               rating: route.params.rating,
               startDate: route.params.startDate,
               endDate: route.params.endDate,
+              selected:selected,
+              room: route.params.rooms.find((room) => room.name === selected),
+              address: route.params.address,
+              
             })
           }
           style={styles.bookContainer}
@@ -115,6 +132,7 @@ const RoomsScreen = () => {
           </Text>
         </Pressable>
       ) : null}
+     
     </>
   );
 };

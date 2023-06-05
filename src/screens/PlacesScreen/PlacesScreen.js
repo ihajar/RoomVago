@@ -121,6 +121,7 @@ const PlacesScreen = () => {
                 endDate={route.params.endDate}
                 property={property}
                 availableRooms={property.rooms}
+                address={route.params.address}
             />
             ))
         }

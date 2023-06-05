@@ -33,11 +33,13 @@ const UserScreen = () => {
       }, []);
 
     const [firstName, setFirstName] = useState("");
+    
     const [lastName, setLastName] = useState("");
     const [email, setEmail] = useState("");
     const [phoneNo, setPhoneNo] = useState(null);
     const [profilePic, setProfilePic] = useState(null);
     
+    // console.log(firstName)
     const finalStep = () => {
         if(!firstName || !lastName || !email || !phoneNo) {
             Alert.alert(
@@ -66,18 +68,19 @@ const UserScreen = () => {
                 rating: route.params.rating,
                 startDate: route.params.startDate,
                 endDate: route.params.endDate,
+                selected:route.params.selected,
+                room: route.params.room,
+                address:route.params.address,
+                firstName: firstName,
+                lastName: lastName,
+                email: email,
+                phoneNo: phoneNo,
             });
         }  
     };
+   
 
-    state = {
-        user: {
-            name: "",
-            email: "",
-            avatar: null
-        },
-        errorMessage: null
-    };
+ 
     
     handlePickerAvatar = async () => {
         UserPermission.getCameraPermission()
@@ -155,7 +158,9 @@ const UserScreen = () => {
                 </View>
                 
             </View>
-            <Text style={{paddingRight: 10, fontSize: 18, color: '#095086', fontWeight: '600'}}>You saved $ {route.params.oldPrice - route.params.nowPrice}</Text>
+            <Text style={{paddingRight: 10, fontSize: 18, color: '#095086', fontWeight: '600'}}>
+                You saved $ {route.params.oldPrice - route.params.nowPrice}
+            </Text>
         </Pressable>
 
         <Pressable
@@ -165,7 +170,7 @@ const UserScreen = () => {
                 <Text style={{textAlign: 'center', color: 'white', fontSize: 20, fontWeight: '600'}}>
                     Confirm Your Booking
                 </Text>
-            </Pressable>
+        </Pressable>
     </>
   )
 }
